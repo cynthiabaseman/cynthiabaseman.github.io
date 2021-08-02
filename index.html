@@ -4,8 +4,7 @@
 <h1>Cynthia Baseman</h1>
 
 
-<p>I'm hosted with GitHub Pages.</p>
-<img src="Baseman.png" alt="Headshot">
+<img src="Baseman.png" alt="Headshot" width="300" height="300">
 <p>Cynthia Baseman's personal website</p>
 
 <section>
@@ -13,6 +12,32 @@
 </section>
 <p> Mouse over the timeline to find out about me. </p>
 <p> <i> Time is money. -Benjamin Franklin </i></p>
+
+
+<nav class="menu">
+    <ul>
+      <li><a href="#">The Past</a></li>
+      <li><a href="#">The Present</a></li>
+      <li><a href="#">The Future</a></li>
+    </ul>
+  </nav>
+
+
+  <nav class="menu">
+    <ul>
+      <li><button onclick="myTimeline()">The Past</button></li>
+      <li><button onclick="myTimeline()">The Present</button></li>
+      <li><button onclick="myTimeline()">The Future</button></li>
+    </ul>
+  </nav>
+
+<p id="demo"></p</p>
+
+<script>
+function myTimeline() {
+    document.getElementbyID("demo").innerHTML = "Hello World"
+}
+</script>
 
 
 <p> Testing update. </p>
