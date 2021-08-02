@@ -28,28 +28,40 @@
   <th><button onclick="thePast()">The Past</button></th>
   <th><button onclick="thePresent()">The Present</button></th>
   <th><button onclick="theFuture()">The Future</button></th>
+  <th><button onclick="theTest()">The Test</button></th>
 </tl>
 </table>
 </nav>
   <p id="timeline"></p>
 
 <script>
-function thePast() {
-    document.getElementById("timeline").innerHTML = "Georgia Tech BSECE, May 2020";
-}
+    function theTest() {
+        <p> Testing just in a script</p>
+    }
+</script>
+
+<script>
+    function thePast() {
+        var elem = document.getElementById("timeline");
+        elem.innerHTML = "Georgia Tech BSECE, May 2020";
+        elem.style.color = 'red';
+    }
 </script>
 
 <script>
     function thePresent() {
-        document.getElementById("timeline").innerHTML = "Avionics Engineer - Comm/Nav";
-        <p> hello </p>
+        var elem = document.getElementById("timeline");
+        elem.innerHTML = "Avionics Engineer, Comm/Nav";
+        elem.style.color = 'green';
     }
-    </script>
+</script>
 
 
 <script>
     function theFuture() {
-        document.getElementById("timeline").innerHTML = "Hello Future";
+        var elem = document.getElementById("timeline");
+        elem.innerHTML = "Hello Future";
+        elem.style.color = 'blue';
     }
     </script>
     
