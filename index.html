@@ -23,22 +23,32 @@
   </nav>
 
 
-  <nav class="menu">
-    <ul>
-      <button onclick="myTimeline()">The Past</button>
-      <button onclick="myTimeline()">The Present</button>
-      <button onclick="myTimeline()">The Future</button>
-    </ul>
-  </nav>
+
+<button onclick="thePast()">The Past</button>
+<button onclick="thePresent()">The Present</button>
+<button onclick="theFuture()">The Future</button>
+
 <p id="timeline"></p</p>
 
 <script>
-function myTimeline() {
-    document.getElementbyID("timeline").innerHTML = "Hello World";
+function thePast() {
+    document.getElementbyID("timeline").innerHTML = "Hello Past";
 }
 </script>
 
+<script>
+    function thePresent() {
+        document.getElementbyID("timeline").innerHTML = "Hello Present";
+    }
+    </script>
 
-<p> Testing update. </p>
+<script>
+    function theFuture() {
+        document.getElementbyID("timeline").innerHTML = "Hello Future";
+    }
+    </script>
+    
+
+<h2> Portfolio </h2>
 </body>
 </html>
