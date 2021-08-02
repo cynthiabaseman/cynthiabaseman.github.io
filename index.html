@@ -23,8 +23,8 @@
 
 
 <center><button onclick="thePast()">The Past</button></center>
-<button onclick="thePresent()">The Present</button> 
-<button onclick="theFuture()">The Future</button> 
+<center><button onclick="thePresent()">The Present</button></center>
+<center><button onclick="theFuture()">The Future</button> </center>
 <p id="timeline"></p>
 
 <script>
@@ -46,7 +46,13 @@ function thePast() {
     }
     </script>
     
+<center><button onclick="theConstruct()">Time is a construct.</button> </center>
 
+<script>
+    function theConstruct() {
+        document.getElementById("timeline").innerHTML = "";
+    }
+    </script>
     
 
 </body>
