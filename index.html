@@ -5,14 +5,13 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 </style>
 <body>
 <h1><center>Cynthia Baseman</center></h1>
 
 
-<center>img src="Baseman.png" alt="Headshot" width="300" height="300"></center>
+img src="Baseman.png" alt="Headshot" width="300" height="300" class="center">
 <p><center>Cynthia Baseman's personal website</center></p>
 
 <section>
@@ -24,8 +23,8 @@
 
 
 <button onclick="thePast()">The Past</button>
-<!-- <button onclick="thePresent()">The Present</button> -->
-<!-- <button onclick="theFuture()">The Future</button> -->
+<button onclick="thePresent()">The Present</button> 
+<button onclick="theFuture()">The Future</button> 
 <p id="timeline"></p>
 
 <script>
@@ -33,6 +32,20 @@ function thePast() {
     document.getElementById("timeline").innerHTML = "Hello Past";
 }
 </script>
+
+<script>
+    function thePresent() {
+        document.getElementById("timeline").innerHTML = "Hello Past";
+    }
+    </script>
+
+
+<script>
+    function theFuture() {
+        document.getElementById("timeline").innerHTML = "Hello Past";
+    }
+    </script>
+    
 
     
 
