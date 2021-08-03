@@ -59,13 +59,12 @@
 </style>
 
 
-
 <header>
     <div class = "column column1">;
         <h1><center>Cynthia Baseman</center></h1>
         <p><center><i>Personal Website</i></center></p>
-
-        <img src="Baseman.png" alt="Headshot" width="250" height="250" class="center">
+        
+        <img id="image" src="Baseman.png" alt="Headshot" width="250" height="250" class="center">
         
         <p> <center>Use the timeline below to find out more. </center></p>
         <br/>
@@ -116,6 +115,9 @@
 
 <script>  /* The Past */   
     function thePast() {
+        var img = document.getElementByID("image");
+        img.src= "Past.jpg"
+
         document.getElementById("experienceh2").innerHTML = "";
         document.getElementById("experience").innerHTML = "";
         document.getElementById("courseworkh2").innerHTML = "";
@@ -170,6 +172,9 @@
 </script>
 
 <script> /* The Present */
+    var img = document.getElementByID("image");
+    img.src= "Baseman.png"
+
     function thePresent() {
         document.getElementById("educationh2").innerHTML = "";
         document.getElementById("education").innerHTML = "";
