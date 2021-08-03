@@ -38,19 +38,59 @@
 </tl>
 </table>
 </nav>
-  <p id="timeline"></p>
 
-<script>
-    function theTest() {
-        <p> Testing just in a script</p>
-    }
-</script>
+  
+<!-- For The Past -->
+    <h2 id = "educationh2"></h2>
+    <p id = "education"></p>
+    <h2 id = "projectsh2"></h2>
+    <p id = "projects1"></p>
+    <p id = "projects2"></p>
+
+
+<!-- For The Present -->
+    <h2 id = "experience"h2></h2>
+    <p id = "experience"></p>
+
+<!-- For The Future -->
+    <h2 id = "courseworkh2"></h2>
+    <p id = "coursework"></p>
+    <h2 id = "goalsh2"></h2>
+    <p id = "goals"></p>
+
+
 
 <script>
     function thePast() {
-        var elem = document.getElementById("timeline");
-        elem.innerHTML = "Georgia Tech BSECE, May 2020";
+        var elem = document.getElementById("educationh2");
+        elem.innerHTML = "Education";
         elem.style.color = 'red';
+
+        var elem = document.getElementById("education");
+        elem.innerHTML = "Georgia Institute of Technology | Atlanta, GA <br/> \
+        B.S in Electrical Engineering | May 2020";
+
+
+        var elem = document.getElementById("projectsh2");
+        elem.innerHTML = "Projects";
+        elem.style.color = 'red';
+
+        var elem = document.getElementById("projects1");
+        elem.innerHTML = "Motion Tomography | Georgia Tech Systems Research Lab <br/> \
+        Georgia Tech Vertically Integrated Project (VIP) <br/> \
+        Fall 2018 - Spring 2020 <br/> \
+        •	Data-driven and theoretical modeling of autonomous vehicle behavior in MATLAB and Python <br/>\
+        •	Applied wind field mapping to model, and extended application to ray propagation seismic tomography <br/>\
+        •	Presented progress to lab team bi-weekly, and composed full-length papers detailing results"
+
+        var elem = document.getElementById("projects2");
+        elem.innerHTML = "Low-Cost Bone-Conduction Hearing Aid Development Platform <br/> \
+        Senior Design Project | Embedded Systems <br/>\
+        Fall 2019 - Spring 2020 <br/>\
+        •	Wrote proposal for a discreet low-cost bone-conduction hearing aid to reduce cost from $4,600 to $30 <br/>\
+        •	Developed a fully functional and configurable acoustic and electrical circuit for implementation in aid <br/>"
+
+
     }
 </script>
 
@@ -70,6 +110,8 @@
         elem.style.color = 'blue';
     }
     </script>
+
+
     
 <center><button onclick="theConstruct()">Time is a construct.</button> </center>
 
