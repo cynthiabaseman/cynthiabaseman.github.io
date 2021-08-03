@@ -8,6 +8,39 @@
   margin-right: auto;
 }
 .exp{visibility: hidden;}
+.button{
+    border-radius: 8px;
+    padding: 14px 40px;
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    background-color: black;
+    color: white;
+}
+
+.button1 {
+    border: 2 px solid #f44336; /* Red */ 
+}
+.button1:hover {
+    background-color: #f44336; /* Red */ 
+}
+
+.button2 {
+    border: 2 px #4CAF50; /* Green */
+}
+.button2:hover {
+    background-color: #4CAF50; /* Green */
+}
+
+.button3 {
+    border: 2 px #008CBA; /* Blue */
+}
+.button3:hover{
+    background-color: #008CBA; /* Blue */
+}
+
 </style>
 
 
@@ -31,9 +64,9 @@
 <table>
 <table style="width:100%">
 <tr>
-  <th><button onclick="thePast()">The Past</button></th>
-  <th><button onclick="thePresent()">The Present</button></th>
-  <th><button onclick="theFuture()">The Future</button></th>
+  <th><button class="button button1" onclick="thePast()">The Past</button></th>
+  <th><button class="button button2" onclick="thePresent()">The Present</button></th>
+  <th><button class="button button3" onclick="theFuture()">The Future</button></th>
 </tl>
 </table>
 </nav>
