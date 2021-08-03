@@ -171,7 +171,7 @@
 </script>
 
 <script> /* The Present */
-    var img = document.getElementByID("image");
+    var img = document.getElementById("image");
     img.src= "Baseman.png"
 
     function thePresent() {
@@ -202,6 +202,11 @@
 </script>
 
 <script> /* The Future */
+
+    var img = document.getElementById("image");
+    img.src= ""
+    img.alt="404. Not there yet."
+
     function theFuture() {
         document.getElementById("educationh2").innerHTML = "";
         document.getElementById("education").innerHTML = "";
