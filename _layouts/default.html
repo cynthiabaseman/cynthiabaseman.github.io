@@ -2,6 +2,19 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
+  <style>
+    header{
+        margin: 0px; padding: 0px; height: 20em;
+        background-color: #C0C0C0;
+    }
+    body {
+        background-color: linen;
+    }
+    h1 {
+      color: maroon;
+      margin-left: 40px;
+    } 
+  </style>
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -15,10 +28,6 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    header{
-        margin: 0px; padding: 0px; height: 20em;
-        background-color: #C0C0C0;
-    }
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
