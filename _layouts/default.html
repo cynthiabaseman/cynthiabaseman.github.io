@@ -11,16 +11,6 @@
     body {
         background-color: #ffffff;
     }
-    h1 {
-    text-align: center;
-    margin: 0px auto;
-    display; block;
-    }
-    h2 {
-    text-align: center;
-    margin: 0px auto;
-    display; block;
-    }
 
   </style>
 
@@ -36,10 +26,9 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header >
-    /* class="page-header" role="banner" */
     
-      <h1 class="project-name" style="color:black;" >{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline" style="color:grey;">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name" style="text-align: center; color:black;" >{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline" style="text-align: center; color:grey;">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
