@@ -26,6 +26,7 @@ layout: default
   </div>
   <div class="column">
     <p style="text-align:right;">AI Virtual Patients for Clinician Upskilling</p>
+    <img src="vp_website_fig.png" alt="AI Generated Clinician" style="width:192px;height:192px; margin-bottom: 10px; padding-bottom: 5px">
   </div>
 </div>
 
