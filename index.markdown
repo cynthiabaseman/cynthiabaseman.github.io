@@ -17,10 +17,13 @@ layout: default
 
 <div class="row">
   <div class="column">
-    <p>Equitable Technology for Diabetes Management</p>
+    <p style="text-align:left;">Equitable Technology for Diabetes Management</p>
+    <ul>
+        <li>Funded by the American Diabetes Association, and the Georgia Center for Diabetes Translation Research</li>
+    </ul>
   </div>
   <div class="column">
-    <p>AI Virtual Patients for Clinician Upskilling</p>
+    <p style="text-align:right;">AI Virtual Patients for Clinician Upskilling</p>
   </div>
 </div>
 
