@@ -7,7 +7,7 @@ layout: default
 </body>
 
 <div style="display: flex; padding:50px; border-box;">
-  <img src="baseman.JPG" alt="Headshot Image" style="width:192px;height:192px; margin-right: 10px; padding-right: 10px">
+  <img src="baseman.JPG" alt="Headshot Image" style="width:272px;height:272px; margin-right: 10px; padding-right: 10px">
   <p>I am a second-year PhD student in the <a href= "https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing">Human-Centered Computing (HCC) </a> program at Georgia Tech. I am a member of the <a href="https://sites.google.com/view/riarriaga/lab?authuser=0"> Georgia Tech Ubicomp Health & Wellness Lab</a>, advised by Rosa Arriaga.</p>
 </div>
 
@@ -18,7 +18,7 @@ layout: default
 <div class="row">
   <div class="column">
     <p style="text-align:left;">Equitable Technology for Diabetes Management</p>
-    <img src="gcdtr_website_fig.png" alt="Diabetic Foot Ulcer: Ecological System" style="margin-left: auto; margin-right: auto; margin-bottom: 10px; padding-bottom: 5px">
+    <img src="gcdtr_website_fig.png" alt="Diabetic Foot Ulcer: Ecological System" style="width: 256px; height:256px; margin-left: auto; margin-right: auto; margin-bottom: 10px; padding-bottom: 5px">
     <ul>
         <li>Addressing Disparities via the Diabetic Ulcer Computational Sensing system, ADA Sponsored Research</li>
         <li>Designing Diabetes Mobile Health Technology for and with Community Members in Low-resource Settings, GCDTR Sponsored Research</li>
@@ -26,7 +26,7 @@ layout: default
   </div>
   <div class="column">
     <p style="text-align:right;">AI Virtual Patients for Clinician Upskilling</p>
-    <img src="vp_website_fig.png" alt="AI Generated Clinician" style="margin-left: auto; margin-right: auto; margin-bottom: 10px; padding-bottom: 5px">
+    <img src="vp_website_fig.png" alt="AI Generated Clinician" style="width: 378px; height:256px; margin-left: auto; margin-right: auto; margin-bottom: 10px; padding-bottom: 5px">
   </div>
 </div>
 
