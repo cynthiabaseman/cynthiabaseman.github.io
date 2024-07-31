@@ -12,6 +12,10 @@ I am a second-year PhD student in the [Human-Centered Computing (HCC)](https://w
 
 <h2>Current Research</h2>
 
+Equitable Technology for Diabetes Management
+
+AI Virtual Patients for Clinician Upskilling
+
 <h2> Curriculum-Vitae</h2>
 
 <h3> Education History </h3>
