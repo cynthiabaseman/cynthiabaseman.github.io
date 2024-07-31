@@ -6,8 +6,8 @@ layout: default
 </body>
 
 
-<div style="display: flex; padding:100px;">
-  <img src="baseman.JPG" alt="Headshot Image" style="width:256px;height:256px;">
+<div style="display: flex; padding:50px; border-box;">
+  <img src="baseman.JPG" alt="Headshot Image" style="width:192px;height:192px;">
   <p>I am a second-year PhD student in the <a href= "https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing">Human-Centered Computing (HCC) </a> program at Georgia Tech. I am a member of the <a href="https://sites.google.com/view/riarriaga/lab?authuser=0"> Georgia Tech Ubicomp Health & Wellness Lab </a>, advised by Rosa Arriaga.</p>
 </div>
 
