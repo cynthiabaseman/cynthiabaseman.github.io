@@ -6,10 +6,7 @@ layout: default
 </body>
 
 
-I am a second-year PhD student in the [Human-Centered Computing (HCC)](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing) program at Georgia Tech. I am a member of the [Georgia Tech Ubicomp Health & Wellness Lab](https://sites.google.com/view/riarriaga/lab?authuser=0)), advised by Rosa Arriaga.
-
-
-<div style="display: flex; justify-content: 200px;">
+<div style="display: flex; padding:50px;">
   <img src="baseman.JPG" alt="Headshot Image" style="width:128px;height:128px;">
   <p>I am a second-year PhD student in the <a href= "https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing">Human-Centered Computing (HCC) </a> program at Georgia Tech. I am a member of the <a href="https://sites.google.com/view/riarriaga/lab?authuser=0"> Georgia Tech Ubicomp Health & Wellness Lab </a>, advised by Rosa Arriaga.</p>
 </div>
