@@ -15,9 +15,10 @@ layout: default
 
 <h2 style="text-align: center; color:black;">Current Research</h2>
 
-Equitable Technology for Diabetes Management
-
-AI Virtual Patients for Clinician Upskilling
+<div style="display: flex; padding:50px; border-box;">
+<p>Equitable Technology for Diabetes Management</p>
+<p>AI Virtual Patients for Clinician Upskilling</p>
+</div>
 
 <h2 style="text-align: center; color:black;"> Curriculum-Vitae</h2>
 
@@ -37,10 +38,7 @@ Undergraduate Research, Georgia Tech Systems Research Lab, 2018-2020
 
 <h3 style="color:black;"> Industry Experience </h3>
 
-Electronics Engineer I, II, Lockheed Martin Aeronautics, 2020-2022,  July 2020 – June 2022
-<ul>
-  <li>Commmunication/Navigation and Sensors</li>
-</ul>
+Electronics Engineer, Avionics, Communication/Navigation and Sensors, 2020-2022
 
 <h3 style="color:black;"> Teaching Experience </h3>
 
