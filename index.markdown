@@ -19,7 +19,8 @@ layout: default
   <div class="column">
     <p style="text-align:left;">Equitable Technology for Diabetes Management</p>
     <ul>
-        <li>Funded by the American Diabetes Association, and the Georgia Center for Diabetes Translation Research</li>
+        <li>Addressing Disparities via the Diabetic Ulcer Computational Sensing system, ADA Sponsored Research</li>
+        <li>Designing Diabetes Mobile Health Technology for and with Community Members in Low-resource Settings, GCDTR Sponsored Research</li>
     </ul>
   </div>
   <div class="column">
