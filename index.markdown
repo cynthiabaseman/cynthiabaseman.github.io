@@ -15,20 +15,12 @@ layout: default
 
 <h2 style="text-align: center; color:black;">Current Research</h2>
 
-<div style="display: flex; padding:50px; border-box;">
-<p>Equitable Technology for Diabetes Management</p>
-<p>AI Virtual Patients for Clinician Upskilling</p>
-</div>
-
-
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+  <div class="column">
+    <p>Equitable Technology for Diabetes Management</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+  <div class="column">
+    <p>AI Virtual Patients for Clinician Upskilling</p>
   </div>
 </div>
 
