@@ -18,7 +18,7 @@ layout: default
 <div class="row">
   <div class="column">
     <p style="text-align:left;">Equitable Technology for Diabetes Management</p>
-    <img src="gcdtr_website_fig.png" alt="Diabetic Foot Ulcer: Ecological System" style="width: 256px; height:256px; margin-left: auto; margin-right: auto; margin-bottom: 10px; padding-bottom: 5px">
+    <p><img src="gcdtr_website_fig.png" alt="Diabetic Foot Ulcer: Ecological System" style="text-align: center; width: 256px; height:256px; margin-left: auto; margin-right: auto; margin-bottom: 10px; padding-bottom: 5px"></p>
     <ul>
         <li>Addressing Disparities via the Diabetic Ulcer Computational Sensing system, ADA Sponsored Research</li>
         <li>Designing Diabetes Mobile Health Technology for and with Community Members in Low-resource Settings, GCDTR Sponsored Research</li>
