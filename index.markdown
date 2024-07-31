@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<body style = "background-color:#fdf5ed">
+<body style = "background-color:#fffcf1">
 </body>
 
 
