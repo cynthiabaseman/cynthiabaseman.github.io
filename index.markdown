@@ -8,6 +8,13 @@ layout: default
 
 I am a second-year PhD student in the [Human-Centered Computing (HCC)](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing) program at Georgia Tech. I am a member of the [Georgia Tech Ubicomp Health & Wellness Lab](https://sites.google.com/view/riarriaga/lab?authuser=0)), advised by Rosa Arriaga.
 
+
+<div style="display: flex;">
+  <img src="baseman.jpg" alt="Headshot Image">
+  <p>I am a second-year PhD student in the [Human-Centered Computing (HCC)](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing) program at Georgia Tech. I am a member of the [Georgia Tech Ubicomp Health & Wellness Lab](https://sites.google.com/view/riarriaga/lab?authuser=0)), advised by Rosa Arriaga.
+</p>
+</div>
+
 <b>Research Interests:</b> Human-Centered Computing, Human-Computer Interaction, Ubiquitious Computing, Health Informatics
 
 <h2 style="text-align: center; color:black;">Current Research</h2>
