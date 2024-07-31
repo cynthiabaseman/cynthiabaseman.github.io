@@ -6,7 +6,7 @@
     header{
         margin: 0px; height: 15em;
         padding: 1px 1px 1px 1px;
-        background-color: #333333;
+        background-color: #ffffff;
         block-size: auto;
     }
     body {
@@ -38,8 +38,8 @@
 
     <header >
     
-      <h1 class="project-name" style="text-align: center; color:white;" >{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline" style="text-align: center; color:#f2f2f2;">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name" style="text-align: center; color:black;" >{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline" style="text-align: center; color:#393939;">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
