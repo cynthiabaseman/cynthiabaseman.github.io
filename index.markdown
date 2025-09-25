@@ -14,10 +14,10 @@ layout: default
 
 My research focuses on equitable health technologies which incorporate AI for chronic health management, especially for historically marginalized communities. I conduct qualitative research, utilizing participatory and/or community-based approaches, and work with multidisciplinary teams to bridge design, HCI, and medicine. Most recently, I have been exploring medical mistrust and institutional distrust within communities of older Black Americans with low income, to inform the design of diabetes mobile health technologies given this specific socio-historical context. 
 
-<b>Research Interests:</b> Human-Centered Computing, Health Equity, Mobile & Ubiquitious Computing, Health Informatics
+<b>Research Interests:</b> Human-Centered Computing, Health Equity, Community-based Design, Mobile & Ubiquitious Computing, Health Informatics
 
-  <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png" style="width:20px;padding-left:50px;padding-right:10px"></a> 
-  <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="linkedin.png" style="width:20px;padding-left:10px;padding-right:50px"></a> 
+  <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png" style="width:200px;padding-left:50px;padding-right:10px"></a> 
+  <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="linkedin.png" style="width:200px;padding-left:10px;padding-right:50px"></a> 
 
   
 
