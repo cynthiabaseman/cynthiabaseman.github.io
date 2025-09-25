@@ -17,8 +17,8 @@ My research focuses on equitable health technologies which incorporate AI for ch
 
 <b>Research Interests:</b> Human-Centered Computing, Health Equity, Community-based Design, Mobile & Ubiquitious Computing, Health Informatics
 
-  <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png" style="width:200px;padding-left:50px;padding-right:10px"></a> 
-  <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="linkedin.png" style="width:200px;padding-left:10px;padding-right:50px"></a> 
+  <div> <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png" style="width:50px;padding-left:50px;padding-right:10px"></a> 
+  <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="linkedin.png" style="width:50px;padding-left:10px;padding-right:50px"></a> </div>
 
   
 
