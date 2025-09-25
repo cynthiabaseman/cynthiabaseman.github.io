@@ -10,9 +10,11 @@ layout: default
   <img src="baseman.JPG" alt="Headshot Image" style="width:272px;height:272px; margin-right: 10px; padding-right: 10px">
   <p>I am a third year PhD student in the <a href= "https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing">Human-Centered Computing (HCC) </a> program at Georgia Tech. I am a member of the <a href="https://sites.google.com/view/riarriaga/lab?authuser=0"> Georgia Tech Ubicomp Health & Wellness Lab</a>, advised by Professor Rosa Arriaga. Previously, I received my B.S. in electrical engineering (Georgia Tech), worked as an electronics avionics engineer, and received my M.S. in computer science specializing in human-computer interaction (Georgia Tech).</p>  
   
-  <a href="https://stackoverflow.com/](https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png"></img></a>
+  <a href="https://stackoverflow.com/](https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png" style="width:20px;padding-left:50px;padding-right:10px"></img></a> 
+  <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="linkedin.png" style="width:20px;padding-left:10px;padding-right:50px"></img></a> 
+
   
-  [<img src="google_scholar.png" style="width:32px;height:30px; margin-right: 10px; padding-right: 10px">](https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)
+  
 </div>
 
 My research focuses on equitable health technologies which incorporate AI for chronic health management, especially for historically marginalized communities. I conduct qualitative research, utilizing participatory and/or community-based approaches, and work with multidisciplinary teams to bridge design, HCI, and medicine. Most recently, I have been exploring medical mistrust and institutional distrust within communities of older Black Americans with low income, to inform the design of diabetes mobile health technologies given this specific socio-historical context. 
