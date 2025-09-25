@@ -6,9 +6,8 @@ layout: default
 <body style = "background-color:#ffffff">
 </body>
 
-  <div style="display: flex; padding:50px; border-box;">
-    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png" style="width:100px;padding-left:50px;padding-right:10px"></a> 
-    <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="linkedin.png" style="width:100px;padding-left:10px;padding-right:50px"></a> 
+  <div>
+    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png" style="width:80px;padding-left:50px;padding-right:10px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="linkedin.png" style="width:80px;padding-left:10px;padding-right:50px"></a> 
   </div>
 
 
@@ -77,7 +76,7 @@ layout: default
 
 
 
-<h2 style="text-align: center; color:black;"> Publications </h2>
+<h2 style="text-align: center; color:black;"> All Publications </h2>
 
 <h3 style="color:black;"> Conference Presentations with Proceedings (refereed) </h3>
 
