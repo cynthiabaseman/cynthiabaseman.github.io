@@ -7,16 +7,16 @@ layout: default
 </body>
 
   <div style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png" style="width:80px;padding-left:50px;padding-right:10px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="linkedin.png" style="width:80px;padding-left:10px;padding-right:50px"></a> 
+    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="width:120px;padding-left:50px;padding-right:15px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="width:120px;padding-left:15px;padding-right:50px"></a> 
   </div>
 
 
 <div style="display: flex; padding:50px; border-box;">
-  <img src="baseman.JPG" alt="Headshot Image" style="width:272px;height:272px; margin-right: 10px; padding-right: 10px">
+  <img src="images/baseman.JPG" alt="Headshot Image" style="width:272px;height:272px; margin-right: 10px; padding-right: 10px">
   <p>I am a third year PhD student in the <a href= "https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing">Human-Centered Computing (HCC) </a> program at Georgia Tech. I am a member of the <a href="https://sites.google.com/view/riarriaga/lab?authuser=0"> Georgia Tech Ubicomp Health & Wellness Lab</a>, advised by Professor Rosa Arriaga. Previously, I received my B.S. in electrical engineering (Georgia Tech), worked as an electronics avionics engineer, and received my M.S. in computer science specializing in human-computer interaction (Georgia Tech).</p>  
 </div>
   
-<div style="display: flex; padding:50px; border-box;">
+<div style="display: flex; padding-left:50px;padding-right:50px; padding-top:10px; border-box;">
 <p> My research focuses on <strong> equitable health technologies</strong> which incorporate AI for chronic health management, especially for historically marginalized communities. I conduct <strong>qualitative</strong> research, utilizing <strong>community-based approaches</strong>, and work with multidisciplinary teams to bridge design, human-computer interaction, and medicine. </p> 
 </div>
 
@@ -27,29 +27,31 @@ layout: default
 
 <b>Research Interests:</b> Human-Centered Computing, Health Equity, Community-based Design, Mobile & Ubiquitious Computing
 
+<b>Contact Me:</b> [first][last]@gatech[dot]edu
+
 
 
 <h2 style="text-align: center; color:black;"> Selected Publications </h2>
 
 
 <div style="display: flex; padding:10px; border-box;">
-  <img src="CHI2025_wehavetobe.png" alt="" style="width:300px; height:294px; margin-right: 10px; padding-right: 10px">
+  <img src="images/CHI2025_wehavetobe.png" alt="" style="width:300px; height:294px; margin-right: 10px; padding-right: 10px">
   <p> <b>“We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes.</b> <br> <a href= "https://doi.org/10.1145/3706598.3713617"><em>CHI 2025</em> </a> <br><br> Even well-intentioned researchers may engage in health equity tourism. To explore implications for mobile health design for Black older adults with low income, we employed refexive, qualitative methods based on our two-year partnership with community sites and semi-structured interviews with community members. Based on our work, we provide actionable recommendations for HCI researchers to mitigate health equity tourism, and reframe our findings through a social-ecological perspective to generate insights into mobile health design to better serve under-resourced communities.  </p>  
 </div>
 
 
 <!-- <div style="display: flex; padding:10px; border-box;">
-  <img src="IMWUT2025_clinicalstandards.png" alt="" style="width:300px; height:452px; margin-right: 10px; padding-right: 10px">
+  <img src="images/IMWUT2025_clinicalstandards.png" alt="" style="width:300px; height:452px; margin-right: 10px; padding-right: 10px">
   <p> <b>Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community.</b><br> <em>Forthcoming in IMWUT</em> <br><br> Imagined visions of the future underlie much of the history of ubiquitous computing. Critiques of speculative design approaches, however, amplify concerns of ubicomp’s inherent focus on the future, inciting questions of who is futuring and how to amplify historically marginalized voices. Taking a research through design approach, we conducted participatory speculative design workshops focusing on diabetes self-monitoring technology, within under-community sites which predominantly serve Black older adults. We explore community member perspectives on three modalities of ubiquitous health technologies: smarthome, wearable, and smartphone application. While much previous research focuses on diabetes technologies, we explore an area which is currently understudied by the ubicomp community: diabetic foot disease monitoring. Further, we center a community which faces greater diabetes health disparities. We provide findings related to health priorities and values of community members, and their broader considerations regarding current and speculative (AI-based) technologies. We reflect on the tensions between current clinical standards of care and the participant agency afforded by participatory design. Finally, we discuss the ways in which participants' views of current and speculative technologies contrast with ubicomp's as a field, specifically surrounding temporality and sociohistorical context.  </p>  
 </div> -->
 
 <div style="display: flex; padding:10px; border-box;">
-  <img src="CSCW2025_pokerwithplay.png" alt="" style="width:300px; height:171px; margin-right: 10px; padding-right: 10px">
-  <p> <b>“Poker with Play Money”: Exploring Psychotherapist Training with Virtual Patients.</b> <br> <em>Forthcoming in PACM & CSCW 2025!</em> <br><br> Role-play exercises are widely utilized for training across a variety of domains; however, they have many shortcomings, including low availability, resource intensity, and lack of diversity. LLM-driven virtual agents offer a potential avenue to mitigate these limitations and offer lower-risk role-play, but the implications of shifting this human-human collaboration to human-agent collaboration are largely unexplored. In this work we focus on the context of psychotherapy, as psychotherapists-in-training extensively engage in role-play exercises with peers and/or supervisors to practice the interpersonal and therapeutic skills required for effective treatment. We provide a case study of a realistic "virtual patient" system for mental health training, evaluated by trained psychotherapists in comparison to their previous experiences with both real role-play partners and real patients. Our qualitative, reflexive analysis generated three themes and thirteen subthemes regarding key interpersonal skills of psychotherapy, the utility of the system compared to traditional role-play techniques, and factors which impacted psychotherapist-perceived ``humanness'' of the virtual patient. Although psychotherapists were optimistic about the system's potential to bolster therapeutic skills, this utility was impacted by the extent to which the virtual patient was perceived as human-like.  </p>  
+  <img src="images/CSCW2025_pokerwithplay.png" alt="" style="width:300px; height:171px; margin-right: 10px; padding-right: 10px">
+  <p> <b>“Poker with Play Money”: Exploring Psychotherapist Training with Virtual Patients.</b> <br> <em>Forthcoming in PACM & CSCW 2025!</em> <br><br> Role-play exercises are widely utilized for training across a variety of domains; however, they have many shortcomings, including low availability, resource intensity, and lack of diversity. LLM-driven virtual agents offer a potential avenue to mitigate these limitations and offer lower-risk role-play, but the implications of shifting this human-human collaboration to human-agent collaboration are largely unexplored. In this work we focus on the context of psychotherapy, as psychotherapists-in-training extensively engage in role-play exercises with peers and/or supervisors to practice the interpersonal and therapeutic skills required for effective treatment. We provide a case study of a realistic "virtual patient" system for mental health training, evaluated by trained psychotherapists in comparison to their previous experiences with both real role-play partners and real patients. Our qualitative, reflexive analysis generated three themes and thirteen subthemes regarding key interpersonal skills of psychotherapy, the utility of the system compared to traditional role-play techniques, and factors which impacted psychotherapist-perceived ``humanness'' of the virtual patient. Although psychotherapists were optimistic about the system's potential to bolster therapeutic skills, this utility was impacted by the extent to which the virtual patient was perceived as human-like.  </p>
 </div>
 
 <div style="display: flex; padding:10px; border-box;">
-  <img src="" alt="" style="width:300px; margin-right: 10px; padding-right: 10px">
+  <img src="" alt="images/IEEE2025_towardsmoreequitable.png" style="width:300px; height: 120px; margin-right: 10px; padding-right: 10px">
   <p> <b>Equitable Diabetic Foot Ulcer Recognition Modeling** </b><br> <em>Forthcoming in IEEE EMBS BHI 2025</em> and <a href= "https://diabetesjournals.org/diabetes/article/74/Supplement_1/259-OR/159965"><em>ADA 85th Scientific Sessions</em></a> <br><br> Diabetic foot ulcers, a life-threatening complication of diabetes, take a disproportionate toll on communities of color; however, these communities are currently underrepresented in dermatologic and wound image datasets. In support of more equitable and generalizable computational modeling, we detail our two-year effort to create the first repository of diabetic foot ulcer images collected predominantly from patients of color in naturalistic settings. We conduct an evaluation of state-of-the-art foot ulcer segmentation and classification methods using our dataset of 3,362 foot images collected from 252 patients, and provide evidence that current ulcer recognition models result in insufficient performance. We propose and evaluate a new pipeline which improves segmentation performance, including an ulcer detection model and a foundational segmentation model (Segment Anything 2 UNet) tailored to communities of color and specifically aiming for naturalistic assessment scenarios. We release our image dataset to support the development of larger, more diverse datasets, and ultimately more equitable models for diabetic foot care. </p>  
 </div>
 
@@ -61,7 +63,7 @@ layout: default
 <div class="row">
   <div class="column">
     <p style="text-align:left;">Equitable Technology for Diabetes Management</p>
-    <img src="gcdtr_website_fig.png" alt="Diabetic Foot Ulcer: Ecological System" style="text-align: center; width: 256px; height:256px; margin-left: auto; margin-right: auto; margin: 10px auto 20px; padding-bottom: 5px">
+    <img src="images/gcdtr_website_fig.png" alt="Diabetic Foot Ulcer: Ecological System" style="text-align: center; width: 256px; height:256px; margin-left: auto; margin-right: auto; margin: 10px auto 20px; padding-bottom: 5px">
     <ul>
         <li>Addressing Disparities via the Diabetic Ulcer Computational Sensing System, ADA Sponsored Research</li>
         <li>Designing Diabetes Mobile Health Technology for and with Community Members in Low-resource Settings, GCDTR Sponsored Research</li>
@@ -69,7 +71,7 @@ layout: default
   </div>
   <div class="column">
     <p style="text-align:right;">AI Virtual Patients for Clinician Upskilling</p>
-    <img src="vp_website_fig.png" alt="AI Generated Clinician" style="text-align: center; width: 378px; height:256px; margin: 10px auto 20px; padding-bottom: 5px">
+    <img src="images/vp_website_fig.png" alt="AI Generated Clinician" style="text-align: center; width: 378px; height:256px; margin: 10px auto 20px; padding-bottom: 5px">
         <ul>
         <li>Exploring virtual patients for psychotherapist training, NSF Sponsored Research</li>
     </ul>
@@ -88,7 +90,7 @@ layout: default
 
 [Forthcoming] **Baseman, C. M.**, et al. Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes. In 2025 IEEE EMBS International Conference on Biomedical and Health Informatics. IEEE.
 
-[Forthcoming] **Baseman, C. M.**, et al. (2025). Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction
+[Forthcoming] **Baseman, C. M.**, et al. (2025). Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction.  <a href="preprints/CSCW2025_PokerWithPlayMoney_Final.pdf">Link to Pre-Print </a>
 
 [Forthcoming] Xu, K., **Baseman, C.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction
 
