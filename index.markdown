@@ -32,7 +32,7 @@ layout: default
 
 
 
-<h2 style="text-align: center; color:black;"> Selected Publications </h2>
+<h1 style="text-align: center; color:black;"> Selected Publications </h1>
 
 
 <div style="display: flex; padding:10px; border-box;">
@@ -83,9 +83,9 @@ layout: default
 
 
 
-<h2 style="text-align: center; color:black;"> All Publications </h2>
+<h1 style="text-align: center; color:black;"> All Publications </h1>
 
-<h3 style="color:black;"> Conference Presentations with Proceedings (refereed) </h3>
+<h2 style="color:black;"> Conference Presentations with Proceedings (refereed) </h2>
 
 [Just Accepted] **Baseman, C. M.**, et al. Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.
 
@@ -99,11 +99,11 @@ Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT
 
 **Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (pp. 1-17). <a href= "https://doi.org/10.1145/3706598.3713617">https://doi.org/10.1145/3706598.3713617</a> 
 
-<h3 style="color:black;"> Journal Papers (refereed) </h3>
+<h2 style="color:black;"> Journal Papers (refereed) </h2>
 
 **Baseman C.**, et al. 2023. Intelligent Care Management for Diabetic Foot Ulcers: A Scoping Review of Computer Vision and Machine Learning Techniques and Applications. Journal of Diabetes Science and Technology. <a href= "https://doi.org/10.1177/19322968231213378">https://doi.org/10.1177/19322968231213378</a> 
 
-<h3 style="color:black;"> Presentations & Invited Talks </h3>
+<h2 style="color:black;"> Presentations & Invited Talks </h2>
 
 [Upcoming] "Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes." To Be Presented at IEEE EMBS International Conference on Biomedical and Health Informatics 2025. (2025, October). 
 
@@ -117,7 +117,7 @@ Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT
 
 “Beyond Health Equity Tourism: Leveraging Community-Based Participatory Research to Promote Diabetes Care Engagement.” Presented at the December 2024 NIDDK-CDTR Meeting. (2024, December).
 
-<h3 style="color:black;"> Posters, Extended Abstracts, & Non-Archival Works </h3>
+<h2 style="color:black;"> Posters, Extended Abstracts, & Non-Archival Works </h2>
 
 **Baseman, C.**, et al. (2025, June). 259-OR: Evaluating Diabetic Foot Ulcer Recognition Algorithms for Patients of Color. Diabetes, 74(Supplement 1), 259-OR. <a href= "https://doi.org/10.2337/db25-259-OR">https://doi.org/10.2337/db25-259-OR</a> 
 
@@ -129,7 +129,7 @@ Lee, H., Menezes, V., **Baseman, C.**, et al. (2024, September). Machine learnin
 
 
 
-<h2 style="text-align: center; color:black;"> Teaching Experience</h2>
+<h1 style="text-align: center; color:black;"> Teaching Experience</h1>
 
 Graduate Teaching Assistant, Georgia Institute of Technology
 <ul>
@@ -138,7 +138,7 @@ Graduate Teaching Assistant, Georgia Institute of Technology
   <li>CS 3001 Computing & Society | Instructor: Dr. Clint Zeagler | Fall 2022</li>
 </ul>
 
-<h2 style="text-align: center; color:black;"> Leadership, Service, & Academic Mentorship </h2>
+<h1 style="text-align: center; color:black;"> Leadership, Service, & Academic Mentorship </h1>
 
 President, <a href= "https://sites.gatech.edu/gradpride/">Graduate Pride </a> at Georgia Tech (Student Organization)
 
