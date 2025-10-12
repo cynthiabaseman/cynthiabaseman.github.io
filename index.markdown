@@ -7,7 +7,7 @@ layout: default
 </body>
 
   <div style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="width:100px;padding-left:30px;padding-right:15px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="width:80px;padding-left:20px;padding-right:20px"></a> <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="width:100px;padding-left:15px;padding-right:30px"></a> 
+    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="width:90px;padding-left:30px;padding-right:15px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="width:80px;padding-left:20px;padding-right:20px"></a> <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="width:90px;padding-left:15px;padding-right:30px"></a> 
   </div>
 
 
@@ -28,7 +28,7 @@ layout: default
 
 <b>Research Interests:</b> Human-Centered Computing, Health Equity, Community-based Design, Mobile & Ubiquitious Computing
 
-<b>Contact Me:</b> cbaseman3[at]gatech[dot]edu
+<b>Contact Me:</b> baseman[at]gatech[dot]edu
 
 
 
