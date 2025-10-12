@@ -13,7 +13,7 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp; [Forthcoming] **Baseman, C. M.**, et al. Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes. In 2025 IEEE EMBS International Conference on Biomedical and Health Informatics. IEEE.
 
-&nbsp;&nbsp;&nbsp; [Forthcoming] **Baseman, C. M.**, et al. (2025). Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction.  <a href="preprints/CSCW2025_PokerWithPlayMoney_Final.pdf">Link to Pre-Print </a>
+&nbsp;&nbsp;&nbsp; [Forthcoming] **Baseman, C. M.**, et al. (2025). Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction.  <a href="{{ '/preprints/CSCW2025_PokerWithPlayMoney_Final.pdf' | relative_url }}"> Link to Pre-Print </a>
 
 &nbsp;&nbsp;&nbsp; [Forthcoming] Xu, K., **Baseman, C.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction
 
