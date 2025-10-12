@@ -1,4 +1,3 @@
-t
 ---
 layout: default
 title: Cynthia Baseman
