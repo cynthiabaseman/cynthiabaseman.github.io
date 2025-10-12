@@ -11,7 +11,7 @@ permalink: /projects/
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; padding:10px; border-box;">
   <div style="flex: 1;">
-  <img src="images/CHI2025_wehavetobe.png" alt="" style="width: 100%; height: auto;">
+  <img src="images/CHI2025_wehavetobe.png" alt="" style="width: 100%; height: 100%;">
   <div style="flex: 2;">
   <p> <b>“We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes.</b> <br> <a href= "https://doi.org/10.1145/3706598.3713617"><em>CHI 2025</em> </a> <br><br> Even well-intentioned researchers may engage in health equity tourism. To explore implications for mobile health design for Black older adults with low income, we employed refexive, qualitative methods based on a two-year partnership with community sites and semi-structured interviews. W provide actionable recommendations for HCI researchers to mitigate health equity tourism, and reframe our findings through a social-ecological perspective to generate insights into mobile health design to better serve under-resourced communities.  </p>  
 </div>
