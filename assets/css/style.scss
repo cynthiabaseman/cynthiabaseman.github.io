@@ -33,6 +33,19 @@
   background-image: none;
 }
 
+.side-nav a {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 100%;
+  color: #000000;
+  font-size: 16px;
+  background-color: #e6e6e6; // or whatever color fits your theme
+  padding-top: 2rem;
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
 .side-nav {
   position: fixed;
   top: 0;
@@ -58,16 +71,9 @@
   text-align: center;
 }
 
-.side-nav a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-  display: block;
-  padding: 0.5rem 1rem;
-}
 
 .side-nav a:hover {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 
