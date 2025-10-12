@@ -49,6 +49,7 @@
   font-weight: bold;
   display: block; 
   text-decoration: none;
+  box-shadow: none;
 }
 
 .side-nav a {
@@ -58,7 +59,7 @@
   height: 100%;
   color: #000000;
   font-size: 16px;
-  background-color: #cecece; // or whatever color fits your theme
+  background-color: #e0dbdb; // or whatever color fits your theme
   z-index: 1000;
   display: block; 
   text-decoration: none;
@@ -82,7 +83,7 @@
 
 
 .side-nav a:hover {
-  background-color: rgba(230, 230, 230, 0.2);
+  background-color: rgba(220, 220, 220, 0.5);
   color: #000000;
 }
 
