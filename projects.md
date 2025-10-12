@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Selected Projects
+title: Selected Projects 1
 permalink: /projects/
 ---
-# Selected Projects
+# Selected Projects 2
 
 
 
