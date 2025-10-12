@@ -36,12 +36,14 @@ font: "Open Sans"
 navigation:
   - title: Home
     url: /
-  - title: About
-    url: /about/
   - title: Projects
     url: /projects/
-  - title: CV
-    url: /cv/
+  - title: Publications
+    url: /publications/
+  - title: Teaching & Service
+    url: /teaching_service/
+  - title: About
+    url: /about/
 
     
 #plugins:
