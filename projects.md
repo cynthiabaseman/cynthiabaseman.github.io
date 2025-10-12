@@ -10,7 +10,7 @@ permalink: /projects/
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; padding:10px; box-sizing:border-box; max-width: 1000px" >
-  <div style="flex: 1; max-width: 333px; padding-right: 10px;">
+  <div style="flex: 1; max-width: 333px; padding-right: 25px;">
   <img src="{{ '/images/CHI2025_wehavetobe.png' | relative_url }} " alt="" style="width: 100%; height: auto; display: block;">
   </div>
   <div style="flex: 2; max-width: 667px;">
@@ -25,7 +25,7 @@ permalink: /projects/
 </div> -->
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; padding:10px; box-sizing:border-box; max-width: 1000px" >
-  <div style="flex: 1; max-width: 333; padding-right: 10px;">
+  <div style="flex: 1; max-width: 333; padding-right: 25px;">
   <img src="{{ '/images/CSCW2025_pokerwithplay.png' | relative_url }}" alt="" style="width: 100%; height: auto; display: block;">
     </div>
     <div style="flex: 2; max-width: 667;">
@@ -34,8 +34,8 @@ permalink: /projects/
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; padding:10px; box-sizing:border-box; max-width: 1000px" >
-  <div style="flex: 1; max-width: 333; padding-right: 10px;">
-  <img src={{ '/images/IEEE2025_towardsmoreequitable.png' | relative_url }} " alt="" style="width: 100%; height: auto; display: block;">
+  <div style="flex: 1; max-width: 333; padding-right: 25px;">
+  <img src="{{ '/images/IEEE2025_towardsmoreequitable.png' | relative_url }}" alt="" style="width: 100%; height: auto; display: block;">
   </div>
   <div style="flex: 2; max-width: 667;">
   <p> <b>Equitable Diabetic Foot Ulcer Recognition Modeling** </b><br> <em>Forthcoming in IEEE EMBS BHI 2025</em> and <a href= "https://diabetesjournals.org/diabetes/article/74/Supplement_1/259-OR/159965"><em>ADA 85th Scientific Sessions</em></a> <br><br> Diabetic foot ulcers, a life-threatening complication of diabetes, take a disproportionate toll on communities of color; however, these communities are currently underrepresented in image datasets. In support of more equitable and generalizable computational modeling, we detail our two-year effort to create the first repository of diabetic foot ulcer images collected predominantly from patients of color in naturalistic settings. Using our dataset, we evaluate state-of-the-art foot ulcer segmentation and classification methods, providing evidence that current ulcer recognition models result in insufficient performance. We release our image dataset to support the development of larger, more diverse datasets, and ultimately more equitable models for diabetic foot care. </p>  
