@@ -6,7 +6,7 @@ layout: default
 <body style = "background-color:#ffffff">
 </body>
 
-  <div>
+  <div style="text-align: center;">
     <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="google_scholar.png" style="width:80px;padding-left:50px;padding-right:10px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="linkedin.png" style="width:80px;padding-left:10px;padding-right:50px"></a> 
   </div>
 
@@ -17,11 +17,15 @@ layout: default
 </div>
   
 <div style="display: flex; padding:50px; border-box;">
-<p> My research focuses on equitable health technologies which incorporate AI for chronic health management, especially for historically marginalized communities. I conduct qualitative research, utilizing community-based approaches, and work with multidisciplinary teams to bridge design, human-computer interaction, and medicine. Most recently, I have been exploring medical mistrust and institutional distrust within communities of older Black Americans with low income, to inform the design of diabetes mobile health technologies which validate this historically-grounded, protective response. </p> 
+<p> My research focuses on <strong> equitable health technologies</strong> which incorporate AI for chronic health management, especially for historically marginalized communities. I conduct <strong>qualitative</strong> research, utilizing <strong>community-based approaches</strong>, and work with multidisciplinary teams to bridge design, human-computer interaction, and medicine. </p> 
 </div>
 
+<!-- 
+  Most recently, I have been exploring medical mistrust and institutional distrust within communities of older Black Americans with low income, to inform the design of diabetes mobile health technologies which validate this historically-grounded, protective response.
+ -->
 
-<b>Research Interests:</b> Human-Centered Computing, Health Equity, Community-based Design, Mobile & Ubiquitious Computing, Health Informatics
+
+<b>Research Interests:</b> Human-Centered Computing, Health Equity, Community-based Design, Mobile & Ubiquitious Computing
 
 
 
@@ -30,7 +34,7 @@ layout: default
 
 <div style="display: flex; padding:10px; border-box;">
   <img src="CHI2025_wehavetobe.png" alt="" style="width:300px; height:294px; margin-right: 10px; padding-right: 10px">
-  <p> <b>“We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes.</b> <br> <a href= "https://doi.org/10.1145/3706598.3713617"><em>CHI 2025</em> </a> <br><br> Even well-intentioned researchers may engage in health equity tourism. We describe our two-year engagement with under-resourced community sites to provide insights into fostering genuine commitments to remedying health disparities. To explore implications for mobile health (mHealth) design for Black older adults with low income, we employed refexive, qualitative methods based on outreach activity and semi-structured interviews with community members. Our analysis highlights the importance of accessible self-learning opportunities to nurture technological interest. Our fndings also suggest varying loci of control in health, and that mistrust motivates informal support networks and mHealth usage. Based on our work, we provide actionable recommendations for HCI researchers to mitigate HET. Reframing our fndings through a social-ecological perspective generates insights into mobile health design to better serve under-resourced communities.  </p>  
+  <p> <b>“We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes.</b> <br> <a href= "https://doi.org/10.1145/3706598.3713617"><em>CHI 2025</em> </a> <br><br> Even well-intentioned researchers may engage in health equity tourism. To explore implications for mobile health design for Black older adults with low income, we employed refexive, qualitative methods based on our two-year partnership with community sites and semi-structured interviews with community members. Based on our work, we provide actionable recommendations for HCI researchers to mitigate health equity tourism, and reframe our findings through a social-ecological perspective to generate insights into mobile health design to better serve under-resourced communities.  </p>  
 </div>
 
 
@@ -88,13 +92,13 @@ layout: default
 
 [Forthcoming] Xu, K., **Baseman, C.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction
 
-Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction, 9(2), 1-36.
+Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction, 9(2), 1-36. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
 
-**Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (pp. 1-17).
+**Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (pp. 1-17). <a href= "https://doi.org/10.1145/3706598.3713617">https://doi.org/10.1145/3706598.3713617</a> 
 
 <h3 style="color:black;"> Journal Papers (refereed) </h3>
 
-**Baseman C.**, et al. 2023. Intelligent Care Management for Diabetic Foot Ulcers: A Scoping Review of Computer Vision and Machine Learning Techniques and Applications. Journal of Diabetes Science and Technology
+**Baseman C.**, et al. 2023. Intelligent Care Management for Diabetic Foot Ulcers: A Scoping Review of Computer Vision and Machine Learning Techniques and Applications. Journal of Diabetes Science and Technology. <a href= "https://doi.org/10.1177/19322968231213378">https://doi.org/10.1177/19322968231213378</a> 
 
 <h3 style="color:black;"> Presentations & Invited Talks </h3>
 
@@ -110,9 +114,9 @@ Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT
 
 <h3 style="color:black;"> Posters, Extended Abstracts, & Non-Archival Works </h3>
 
-**Baseman, C.**, et al. (2025, June). 259-OR: Evaluating Diabetic Foot Ulcer Recognition Algorithms for Patients of Color. Diabetes, 74(Supplement 1), 259-OR.
+**Baseman, C.**, et al. (2025, June). 259-OR: Evaluating Diabetic Foot Ulcer Recognition Algorithms for Patients of Color. Diabetes, 74(Supplement 1), 259-OR. <a href= "https://doi.org/10.2337/db25-259-OR">https://doi.org/10.2337/db25-259-OR</a> 
 
-Bondu, M., **Baseman, C.**, et al. (2024, October). Accessible Design for Diabetic Foot Ulcer Self-Monitoring: Insights into mHealth Application Design. In Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (pp. 35-40).
+Bondu, M., **Baseman, C.**, et al. (2024, October). Accessible Design for Diabetic Foot Ulcer Self-Monitoring: Insights into mHealth Application Design. In Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (pp. 35-40). <a href= "https://doi.org/10.1145/3675094.3677580">https://doi.org/10.1145/3675094.3677580</a> 
 
 Lee, H., Menezes, V., **Baseman, C.**, et al. (2024, September). Machine learning-supported closed-loop focused ultrasound for targeted drug delivery in the brain. In 2024 IEEE International Ultrasonics Symposium (IUS). IEEE
 
@@ -137,7 +141,8 @@ Leadership Team,  <a href= "https://queerscience.lgbtqia.gatech.edu/">Queer Scie
 
 Undergraduate Thesis Mentorship, Georgia Institute of Technology
 <ul>
-  <li>Krishna Ravishankar: Exploring the Implications of Medical Mistrust for the Design of Conversational Agents in Healthcare for Historically Marginalized Communities  (Spring 2025 - Fall 2025)</li>
+  <li> Isabelle Webb: Exploring Diabetes Health Technologies & AI in Community Spaces (Fall 2025 - Spring 2026)<\li>
+  <li> Krishna Ravishankar: Exploring the Implications of Medical Mistrust for the Design of Conversational Agents in Healthcare for Historically Marginalized Communities  (Spring 2025 - Fall 2025)</li>
   <li>Reeda Huda: The Role of Medical Mistrust in Shaping Perceptions of Healthcare Technologies Among Older Adults from Marginalized Communities  (Fall 2024 - Spring 2025)</li>
   <li>Muni Bondu: Accessible Technology Design for Diabetes Management (Fall 2023 - Fall 2024)</li>
   <li>Elizabeth Salisbury: Useful and Usable Activity-Tracking Interface Design for Older Adults (Fall 2023 - Fall 2024)</li>
