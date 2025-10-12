@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Selected Projects 1
+title: Cynthia Baseman
 permalink: /projects/
 ---
-# Selected Projects 2
 
 
 
