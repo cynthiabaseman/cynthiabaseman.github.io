@@ -44,13 +44,11 @@
   font-size: 16px;
   background-color: #ffffff; // or whatever color fits your theme
   padding-top: 2rem;
-  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
   z-index: 1000;
   text-decoration: none;
   font-weight: bold;
   display: block; 
   text-decoration: none;
-  padding: 0.5rem 1rem;
 }
 
 .side-nav a {
@@ -61,14 +59,13 @@
   color: #000000;
   font-size: 16px;
   background-color: #e6e6e6; // or whatever color fits your theme
-  padding-top: 2rem;
   z-index: 1000;
   display: block; 
   text-decoration: none;
   text-decoration: none;
   font-weight: bold;
   box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
-  padding: 0.5rem 1rem;
+  padding: 1rem 1rem 1rem 1rem;
 }
 
 .side-nav ul {
