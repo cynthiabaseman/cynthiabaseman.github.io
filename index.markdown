@@ -24,18 +24,14 @@ title: Cynthia Baseman
 </div>
 
 
-  
-<!-- <div style="display: flex; padding-left:50px;padding-right:50px; padding-top:10px; border-box;"> -->
-  
-<p> My research focuses on <strong> equitable health technologies</strong> which incorporate AI for chronic health management, especially for historically marginalized communities. I conduct <strong>qualitative</strong> research, utilizing <strong>community-based approaches</strong>, and work with multidisciplinary teams to bridge design, human-computer interaction, and medicine. </p> 
-<!-- </div>-->
+
 
 <!-- 
   Most recently, I have been exploring medical mistrust and institutional distrust within communities of older Black Americans with low income, to inform the design of diabetes mobile health technologies which validate this historically-grounded, protective response.
  -->
 
 
-<b>Research Interests:</b> Human-Centered Computing, Health Equity, Community-based Design, Mobile & Ubiquitious Computing
+<b>Research Interests:</b> HCI, Health Equity, Community-based Design, Mobile & Ubiquitious Computing
 
 <b>Contact Me:</b> baseman[at]gatech[dot]edu
 
