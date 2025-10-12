@@ -28,7 +28,7 @@ layout: default
 
 <b>Research Interests:</b> Human-Centered Computing, Health Equity, Community-based Design, Mobile & Ubiquitious Computing
 
-<b>Contact Me:</b> cbaseman3[at]gatech[dot]edu
+<b>Contact Me:</b> baseman[at]gatech[dot]edu
 
 
 
@@ -52,7 +52,7 @@ layout: default
 </div>
 
 <div style="display: flex; padding:10px; border-box;">
-  <img src="" alt="images/IEEE2025_towardsmoreequitable.png" style="width:300px; height: 120px; margin-right: 10px; padding-right: 10px">
+  <img src="" alt="images/IEEE2025_towardsmoreequitable.png" style=" margin-right: 10px; padding-right: 10px">
   <p> <b>Equitable Diabetic Foot Ulcer Recognition Modeling** </b><br> <em>Forthcoming in IEEE EMBS BHI 2025</em> and <a href= "https://diabetesjournals.org/diabetes/article/74/Supplement_1/259-OR/159965"><em>ADA 85th Scientific Sessions</em></a> <br><br> Diabetic foot ulcers, a life-threatening complication of diabetes, take a disproportionate toll on communities of color; however, these communities are currently underrepresented in image datasets. In support of more equitable and generalizable computational modeling, we detail our two-year effort to create the first repository of diabetic foot ulcer images collected predominantly from patients of color in naturalistic settings. Using our dataset, we evaluate state-of-the-art foot ulcer segmentation and classification methods, providing evidence that current ulcer recognition models result in insufficient performance. We release our image dataset to support the development of larger, more diverse datasets, and ultimately more equitable models for diabetic foot care. </p>  
 </div>
 
@@ -95,9 +95,9 @@ layout: default
 
 [Forthcoming] Xu, K., **Baseman, C.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction
 
-Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction, 9(2), 1-36. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
+Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction, 9(2), 1-36. <a href= "https://doi.org/10.1145/3710917">Link</a> 
 
-**Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (pp. 1-17). <a href= "https://doi.org/10.1145/3706598.3713617">https://doi.org/10.1145/3706598.3713617</a> 
+**Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (pp. 1-17). <a href= "https://doi.org/10.1145/3706598.3713617">Link</a> 
 
 <h3 style="color:black;"> Journal Papers (refereed) </h3>
 
@@ -117,9 +117,9 @@ Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT
 
 <h3 style="color:black;"> Posters, Extended Abstracts, & Non-Archival Works </h3>
 
-**Baseman, C.**, et al. (2025, June). 259-OR: Evaluating Diabetic Foot Ulcer Recognition Algorithms for Patients of Color. Diabetes, 74(Supplement 1), 259-OR. <a href= "https://doi.org/10.2337/db25-259-OR">https://doi.org/10.2337/db25-259-OR</a> 
+**Baseman, C.**, et al. (2025, June). 259-OR: Evaluating Diabetic Foot Ulcer Recognition Algorithms for Patients of Color. Diabetes, 74(Supplement 1), 259-OR. <a href= "https://doi.org/10.2337/db25-259-OR">Link</a> 
 
-Bondu, M., **Baseman, C.**, et al. (2024, October). Accessible Design for Diabetic Foot Ulcer Self-Monitoring: Insights into mHealth Application Design. In Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (pp. 35-40). <a href= "https://doi.org/10.1145/3675094.3677580">https://doi.org/10.1145/3675094.3677580</a> 
+Bondu, M., **Baseman, C.**, et al. (2024, October). Accessible Design for Diabetic Foot Ulcer Self-Monitoring: Insights into mHealth Application Design. In Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (pp. 35-40). <a href= "https://doi.org/10.1145/3675094.3677580">Link</a> 
 
 Lee, H., Menezes, V., **Baseman, C.**, et al. (2024, September). Machine learning-supported closed-loop focused ultrasound for targeted drug delivery in the brain. In 2024 IEEE International Ultrasonics Symposium (IUS). IEEE
 
