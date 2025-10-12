@@ -7,7 +7,7 @@ layout: default
 </body>
 
   <div style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="width:100px;padding-left:50px;padding-right:15px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="width:100px;padding-left:15px;padding-right:15px"></a> <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="width:100px;padding-left:15px;padding-right:50px"></a> 
+    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="width:100px;height:100px;padding-left:50px;padding-right:15px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="width:100px;height:100px;padding-left:15px;padding-right:15px"></a> <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="width:100px;height:100px;padding-left:15px;padding-right:50px"></a> 
   </div>
 
 
@@ -19,7 +19,7 @@ layout: default
 <!-- <div style="display: flex; padding-left:50px;padding-right:50px; padding-top:10px; border-box;"> -->
   
 <p> My research focuses on <strong> equitable health technologies</strong> which incorporate AI for chronic health management, especially for historically marginalized communities. I conduct <strong>qualitative</strong> research, utilizing <strong>community-based approaches</strong>, and work with multidisciplinary teams to bridge design, human-computer interaction, and medicine. </p> 
-</div>
+<!-- </div>-->
 
 <!-- 
   Most recently, I have been exploring medical mistrust and institutional distrust within communities of older Black Americans with low income, to inform the design of diabetes mobile health technologies which validate this historically-grounded, protective response.
