@@ -9,7 +9,7 @@ permalink: /projects/
 <h1 style="text-align: center; color:black;"> Selected Projects </h1>
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; padding:10px; box-sizing:border-box;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; padding:10px; box-sizing:border-box; max-width: 1000px" >
   <div style="flex: 1; max-width: 200px;">
   <img src="images/CHI2025_wehavetobe.png" alt="" style="width: 100%; height: auto; display: block;">
   </div>
