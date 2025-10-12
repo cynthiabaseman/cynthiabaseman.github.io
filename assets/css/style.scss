@@ -4,6 +4,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 
+.page-header {
+  text-align: center;
+  background-color: #ffffff;
+  background-image: none;
+  padding-left: 200px;
+  padding-right: 100px; 
+}
+
+
 .main-content {
   max-width: 1100px;
   margin: 0 auto;
@@ -26,12 +35,6 @@
   padding-left: 200px
 }
 
-.page-header {
-  padding: 1rem 1rem;
-  text-align: center;
-  background-color: #ffffff;
-  background-image: none;
-}
 
 
 .side-nav {
