@@ -5,21 +5,21 @@ permalink: /cv/
 ---
 
 
-<h1 style="text-align: center; color:black;"> All Publications </h1>
+<h1 style="text-align: center; color:black;">  Publications, Teaching, & Service </h1>
 
-<h2 style="color:black;"> Conference Presentations with Proceedings (refereed) </h2>
+<h2 style="color:black;"> <strong>Conference Presentations with Proceedings (refereed)</strong> </h2>
 
-[Just Accepted] **Baseman, C. M.**, et al. Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.
+&nbsp;&nbsp;&nbsp; [Just Accepted] **Baseman, C. M.**, et al. Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.
 
-[Forthcoming] **Baseman, C. M.**, et al. Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes. In 2025 IEEE EMBS International Conference on Biomedical and Health Informatics. IEEE.
+&nbsp;&nbsp;&nbsp; [Forthcoming] **Baseman, C. M.**, et al. Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes. In 2025 IEEE EMBS International Conference on Biomedical and Health Informatics. IEEE.
 
-[Forthcoming] **Baseman, C. M.**, et al. (2025). Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction.  <a href="preprints/CSCW2025_PokerWithPlayMoney_Final.pdf">Link to Pre-Print </a>
+&nbsp;&nbsp;&nbsp; [Forthcoming] **Baseman, C. M.**, et al. (2025). Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction.  <a href="preprints/CSCW2025_PokerWithPlayMoney_Final.pdf">Link to Pre-Print </a>
 
-[Forthcoming] Xu, K., **Baseman, C.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction
+&nbsp;&nbsp;&nbsp; [Forthcoming] Xu, K., **Baseman, C.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction
 
-Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction, 9(2), 1-36. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
+&nbsp;&nbsp;&nbsp; Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction, 9(2), 1-36. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
 
-**Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (pp. 1-17). <a href= "https://doi.org/10.1145/3706598.3713617">https://doi.org/10.1145/3706598.3713617</a> 
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (pp. 1-17). <a href= "https://doi.org/10.1145/3706598.3713617">https://doi.org/10.1145/3706598.3713617</a> 
 
 <h2 style="color:black;"> Journal Papers (refereed) </h2>
 
