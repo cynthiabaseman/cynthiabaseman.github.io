@@ -10,9 +10,11 @@
   padding: 0 2rem;
 }
 
-.project-name {
-  margin-top: 2rem;   /* or padding-top: 2rem; */
-  margin-bottom: 1rem;
+@media (min-width: 768px) {
+  .project-name {
+    margin-top: 2rem;   /* or padding-top: 2rem; */
+    margin-bottom: 1rem;
+  }
 }
 
 .project-tagline {
@@ -35,15 +37,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 
