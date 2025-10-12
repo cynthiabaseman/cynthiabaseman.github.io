@@ -48,6 +48,9 @@
   z-index: 1000;
   text-decoration: none;
   font-weight: bold;
+  display: block; 
+  text-decoration: none;
+  padding: 0.5rem 1rem;
 }
 
 .side-nav a {
@@ -65,6 +68,8 @@
   display: block; 
   text-decoration: none;
   padding: 0.5rem 1rem;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .side-nav ul {
@@ -74,7 +79,7 @@
 }
 
 .side-nav li {
-  margin: 1rem 0;
+  margin-bottom: 0.75em;
   text-align: center;
 }
 
