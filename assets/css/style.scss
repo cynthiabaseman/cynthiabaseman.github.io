@@ -93,6 +93,26 @@
   color: #000000;
 }
 
+@media (max-width: 768px) {
+  .side-nav {
+    display: none;
+  }
+  .hamburger {
+    display: block; /* Show hamburger icon */
+  }
+}
+
+/* Show side-nav when hamburger is active */
+.side-nav.active {
+  display: block;
+  position: fixed;
+  top: 0; left: 0; height: 100vh;
+  background: white;
+  width: 80%;
+  z-index: 1000;
+  overflow-y: auto;
+}
+
 
 
 body {
