@@ -29,9 +29,8 @@ github_username:  cynthiabaseman
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 
-theme:
-  font:
-    text: "dosis"
+google_fonts: "Open+Sans:400,700|Roboto:400,700"
+font: "Open Sans"
     
 #plugins:
 #- jekyll-feed
