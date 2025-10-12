@@ -11,26 +11,13 @@
 
     {% include header.html %}
     
-    <div class="page-wrapper">
-  <aside class="side-nav">
-    <nav>
-      <ul>
-        {% for item in site.navigation %}
-          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </aside>
-
-  <main class="main-content">
-    {{ content }}
-  </main>
-</div>
-
 
     <main class="main-content" role="main">
       {{ content }}
     </main>
+      
+</div>
+
 
   </body>
 </html>
