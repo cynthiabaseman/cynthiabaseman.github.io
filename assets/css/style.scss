@@ -4,6 +4,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 
+
+
 .page-header {
   text-align: center;
   background-color: #ffffff;
@@ -32,19 +34,22 @@
   }
 }
 
-.project-name {
-  margin-bottom: 10px;
-  font-weight: normal;
-  opacity: 1;
-  padding-left: 0px
+
+.project-header {
+  text-align: center;
+  margin: 0 auto;
 }
 
+.project-name,
 .project-tagline {
-  margin: 0 auto;
+  margin-left: 0;
+  margin-right: 0;
   font-weight: normal;
-  opacity: 1;
-  padding-left: 100px
+  /* Optional: Adjust bottom margin for spacing */
+  margin-bottom: 10px;
 }
+
+
 
 
 
