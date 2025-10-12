@@ -12,7 +12,7 @@ layout: default
 
 
 <div style="display: flex; padding:50px; border-box;">
-  <img src="images/baseman.JPG" alt="Headshot Image" style="width:230px;height:230px; margin-right: 10px; padding-right: 20px">
+  <img src="images/baseman.JPG" alt="Headshot Image" style="width:230px;margin-right: 10px; padding-right: 20px">
   <p>I am a third year PhD student in the <a href= "https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing">Human-Centered Computing (HCC) </a> program at Georgia Tech. I am a member of the <a href="https://sites.google.com/view/riarriaga/lab?authuser=0"> Georgia Tech Ubicomp Health & Wellness Lab</a>, advised by Professor Rosa Arriaga. Previously, I received my B.S. in electrical engineering (Georgia Tech), worked as an avionics engineer, and received my M.S. in computer science specializing in human-computer interaction (Georgia Tech).</p>  
 </div>
   
