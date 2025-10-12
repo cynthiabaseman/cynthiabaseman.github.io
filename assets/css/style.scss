@@ -4,8 +4,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 .wrapper {
-  max-width: 850px;  /* or whatever you prefer */
+  max-width: 1000px;  /* or whatever you prefer */
   padding: 0 40px;     /* more breathing room */
+}
+
+.main-content {
+  margin-top: 2rem;
+  line-height: 1.8;
 }
 
 body {
