@@ -1,9 +1,8 @@
 ---
 layout: default
-title: CV
+title: Cynthia Baseman
 permalink: /cv/
 ---
-# CV
 
 
 <h1 style="text-align: center; color:black;"> All Publications </h1>
