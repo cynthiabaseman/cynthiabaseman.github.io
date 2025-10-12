@@ -24,14 +24,22 @@ permalink: /projects/
   <p> <b>Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community.</b><br> <em>Forthcoming in IMWUT</em> <br><br> Imagined visions of the future underlie much of the history of ubiquitous computing. Critiques of speculative design approaches, however, amplify concerns of ubicomp’s inherent focus on the future, inciting questions of who is futuring and how to amplify historically marginalized voices. Taking a research through design approach, we conducted participatory speculative design workshops focusing on diabetes self-monitoring technology, within under-community sites which predominantly serve Black older adults. We explore community member perspectives on three modalities of ubiquitous health technologies: smarthome, wearable, and smartphone application. While much previous research focuses on diabetes technologies, we explore an area which is currently understudied by the ubicomp community: diabetic foot disease monitoring. Further, we center a community which faces greater diabetes health disparities. We provide findings related to health priorities and values of community members, and their broader considerations regarding current and speculative (AI-based) technologies. We reflect on the tensions between current clinical standards of care and the participant agency afforded by participatory design. Finally, we discuss the ways in which participants' views of current and speculative technologies contrast with ubicomp's as a field, specifically surrounding temporality and sociohistorical context.  </p>  
 </div> -->
 
-<div style="display: flex; padding:10px; border-box;">
-  <img src="images/CSCW2025_pokerwithplay.png" alt="" style="width:300px; height:171px; margin-right: 10px; padding-right: 10px">
-  <p> <b>“Poker with Play Money”: Exploring Psychotherapist Training with Virtual Patients.</b> <br> <em>Forthcoming in PACM & CSCW 2025!</em> <br><br> Psychotherapists-in-training extensively engage in role-play exercises wto practice the interpersonal and therapeutic skills required for effective mental health treatment. We provide a case study of a realistic "virtual patient" system, evaluated by trained psychotherapists in comparison to their previous experiences with both real role-play partners and real patients. Our findings explore key interpersonal skills of psychotherapy, the utility of virtual patients compared to traditional role-play techniques, and factors which impacted psychotherapist-perceived "humanness" of the virtual patient.  </p>
+<div style="display: flex; flex-wrap: wrap; align-items: center; padding:10px; box-sizing:border-box; max-width: 1000px" >
+  <div style="flex: 1; max-width: 200px;">
+  <img src="{{ '/images/CSCW2025_pokerwithplay.png' | relative_url }}" alt="" style="width: 100%; height: auto; display: block;">
+    </div>
+    <div style="flex: 2; max-width: 800px;">
+    <p> <b>“Poker with Play Money”: Exploring Psychotherapist Training with Virtual Patients.</b> <br> <em>Forthcoming in PACM & CSCW 2025!</em> <br><br> Psychotherapists-in-training extensively engage in role-play exercises wto practice the interpersonal and therapeutic skills required for effective mental health treatment. We provide a case study of a realistic "virtual patient" system, evaluated by trained psychotherapists in comparison to their previous experiences with both real role-play partners and real patients. Our findings explore key interpersonal skills of psychotherapy, the utility of virtual patients compared to traditional role-play techniques, and factors which impacted psychotherapist-perceived "humanness" of the virtual patient.  </p>
+    </div>
 </div>
 
-<div style="display: flex; padding:10px; border-box;">
-  <img src="images/IEEE2025_towardsmoreequitable.png" alt="" style="width:300px; height: 120px; margin-right: 10px; padding-right: 10px">
+<div style="display: flex; flex-wrap: wrap; align-items: center; padding:10px; box-sizing:border-box; max-width: 1000px" >
+  <div style="flex: 1; max-width: 200px;">
+  <img src={{ '/images/IEEE2025_towardsmoreequitable.png' | relative_url }} " alt="" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 2; max-width: 800px;">
   <p> <b>Equitable Diabetic Foot Ulcer Recognition Modeling** </b><br> <em>Forthcoming in IEEE EMBS BHI 2025</em> and <a href= "https://diabetesjournals.org/diabetes/article/74/Supplement_1/259-OR/159965"><em>ADA 85th Scientific Sessions</em></a> <br><br> Diabetic foot ulcers, a life-threatening complication of diabetes, take a disproportionate toll on communities of color; however, these communities are currently underrepresented in image datasets. In support of more equitable and generalizable computational modeling, we detail our two-year effort to create the first repository of diabetic foot ulcer images collected predominantly from patients of color in naturalistic settings. Using our dataset, we evaluate state-of-the-art foot ulcer segmentation and classification methods, providing evidence that current ulcer recognition models result in insufficient performance. We release our image dataset to support the development of larger, more diverse datasets, and ultimately more equitable models for diabetic foot care. </p>  
+  </div>
 </div>
 
 
