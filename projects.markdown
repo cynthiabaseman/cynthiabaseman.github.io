@@ -1,5 +1,6 @@
 
 ---
+layout: default
 title: Selected Projects
 permalink: /projects/
 ---
