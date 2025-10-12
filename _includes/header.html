@@ -1,20 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+  <style>
+    header{
+        width: 100%;
+        margin: 0px; height: 20em;
+        padding: 10px 1px 1px 1px;
+        background-color: #ffffff;
+        block-size: auto;
+    }
+    body {
+        background-color: #ffffff;
+    }
+    .column {
+        float: left;
+        width: 50%;
+        padding: 10px;
+      }
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
 
-<header>
-  <h1>TEST HEADER</h1>
+  </style>
 
-  
-  <h1 class="project-name">
-    <a href="{{ "/" | relative_url }}">{{ site.title }}</a>
-  </h1>
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-  <nav class="site-nav">
-    <ul>
-      {% for item in site.navigation %}
-        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
-</header>
+    <header >
+    
+      <h1 class="project-name" style="text-align: center; color:black;" >{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline" style="text-align: center; color:#393939;">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+      {% endif %}
+    </header>
 
+    <main id="content" class="main-content" role="main">
+      {{ content }}
 
-
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+        <span class="site-footer-credits"></span>
+      </footer>
+    </main>
+  </body>
+</html>
