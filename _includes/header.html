@@ -1,5 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+<header class="page-header" role="banner">
+  <h1 class="project-name">
+    <a href="{{ "/" | relative_url }}">{{ site.title }}</a>
+  </h1>
+
+  {% if site.description %}
+    <h2 class="project-tagline">{{ site.description }}</h2>
+  {% endif %}
+
+  <nav class="site-nav">
+    <ul>
+      {% for item in site.navigation %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
+
   <head>
     <meta charset="UTF-8">
   <style>
