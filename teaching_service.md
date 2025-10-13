@@ -26,4 +26,4 @@ Undergraduate Thesis Mentorship, Georgia Institute of Technology
   <li>Reeda Huda: The Role of Medical Mistrust in Shaping Perceptions of Healthcare Technologies Among Older Adults from Marginalized Communities  (Fall 2024 - Spring 2025)</li>
   <li>Muni Bondu: Accessible Technology Design for Diabetes Management (Fall 2023 - Fall 2024)</li>
   <li>Elizabeth Salisbury: Useful and Usable Activity-Tracking Interface Design for Older Adults (Fall 2023 - Fall 2024)</li>
-</ul>
+
