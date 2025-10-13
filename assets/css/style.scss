@@ -40,11 +40,11 @@
 
 .project-name,
 .project-tagline {
-  margin-left: 200px;
-  margin-right: 0;
+  padding-left: 200px;
+  padding-right: 200px;
+  margins: auto 0;
   font-weight: normal;
   /* Optional: Adjust bottom margin for spacing */
-  margin-bottom: 10px;
 }
 
 
