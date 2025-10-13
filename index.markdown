@@ -8,7 +8,7 @@ title: Cynthia Baseman
 </body>
 
   <div style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="width:85px;padding-left:0px;padding-right:15px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="width:80px;padding-left:20px;padding-right:20px"></a> <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="width:90px;padding-left:15px;padding-right:30px"></a> 
+    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="width:55px;padding-left:0px;padding-right:15px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="width:80px;padding-left:20px;padding-right:20px"></a> <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="width:90px;padding-left:15px;padding-right:30px"></a> 
   </div>
 
 
