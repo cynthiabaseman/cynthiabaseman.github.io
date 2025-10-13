@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cynthia Baseman
+title: Cynthia M. Baseman
 permalink: /teaching_service/
 ---
 
