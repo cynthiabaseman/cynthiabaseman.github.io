@@ -112,14 +112,14 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 10vh; /* space between images */
+  gap: 1rem; /* more predictable spacing */
   padding: 1rem;
 }
 
 .image-row img {
-    width: 11vh;
-    height: 11vh;
-    border-radius: 8px; /* optional, for style */
+  height: 11vh;       /* 11% of screen height */
+  width: auto;        /* maintain aspect ratio */
+  border-radius: 8px;
 }
 
 
@@ -196,15 +196,20 @@
       padding-right: 5vh;
       font-weight: normal;
     }
-    .image-row{
-        gap = 5vh;
-    }
-    .image-row img {
-        width: 11vh;
-        height: 11vh;
+      .image-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem; /* more predictable spacing */
+        padding: 1rem;
+      }
+      
+      .image-row img {
+        height: 11vh;       /* 11% of screen height */
+        width: auto;        /* maintain aspect ratio */
         max-width: 75%;   /* Prevent overflow */
-        border-radius: 8px; /* optional, for style */
-    }
+        border-radius: 8px;
+      }
 
 }
 
