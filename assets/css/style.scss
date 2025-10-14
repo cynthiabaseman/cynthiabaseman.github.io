@@ -58,7 +58,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 12vh;
+  width: 30vh;
   height: 100%;
   padding-top: 10px;
   color: #000000;
@@ -76,7 +76,7 @@
 .side-nav a {
   top: 0;
   left: 0;
-  width: 12vh;
+  width: 30vh;
   height: 100%;
   color: #000000;
   font-size: 16px;
@@ -117,7 +117,7 @@
 }
 
 .image-row img {
-  height: 11vh;       /* 11% of screen height */
+  height: 8vh;       /* 11% of screen height */
   width: auto;        /* maintain aspect ratio */
   border-radius: 8px;
 }
@@ -204,12 +204,12 @@
         padding: 1rem;
       }
       
-      .image-row img {
-        height: 11vh;       /* 11% of screen height */
-        width: auto;        /* maintain aspect ratio */
-        max-width: 75%;   /* Prevent overflow */
-        border-radius: 8px;
-      }
+    .image-row img {
+      height: 8vh;       /* 11% of screen height */
+      width: auto;        /* maintain aspect ratio */
+      max-width: 100%;   /* Prevent overflow */
+      border-radius: 4px;
+    }
 
 }
 
