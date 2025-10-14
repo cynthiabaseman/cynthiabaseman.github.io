@@ -224,6 +224,8 @@
     }
     .main-content{
       font-size:11;
+      margin-left:10px;
+      margin-right:10px;
     }
     .page-header,{
       padding-bottom: 0px;
@@ -252,7 +254,7 @@
   }
   .flex-container img {
     width: 80%;  /* scale image down */
-    max-width: 300px;
+    max-width: 175px;
     margin: 0 auto;
     gap: 0em;
   }
