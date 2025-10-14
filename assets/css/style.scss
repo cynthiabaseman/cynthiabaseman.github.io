@@ -190,10 +190,13 @@
       padding-right: 5vh;
       font-weight: normal;
     }
+    .image-row{
+        gap = 5vh;
+    }
     .image-row img {
-        width: 75px;      /* Mobile default size */
-        height: auto;
-        max-width: 100%;   /* Prevent overflow */
+        width: 11vh;
+        height: 11vh;
+        max-width: 75%;   /* Prevent overflow */
         border-radius: 8px; /* optional, for style */
     }
 
