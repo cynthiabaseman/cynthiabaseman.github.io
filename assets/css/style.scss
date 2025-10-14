@@ -129,6 +129,16 @@
   align-items: center;
   justify-content: center;
   gap: 1em;
+  text-align: left; /* Desktop default */
+}
+
+.flex-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.flex-container .text-content {
+  max-width: 600px;
 }
 
 
@@ -219,9 +229,20 @@
       max-width: 100%;   /* Prevent overflow */
       border-radius: 4px;
     }
-    .flex-container {
+    {
+  .flex-container {
     flex-direction: column;
-    }
+    text-align: center;
+  }
+  .flex-container img {
+    width: 80%;  /* scale image down */
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  .flex-container .text-content {
+    font-size: 0.95em;  /* slightly smaller text */
+    padding: 0 1em;
+  }
 
 }
 
