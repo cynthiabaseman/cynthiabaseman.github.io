@@ -12,7 +12,7 @@ permalink: /projects/
 
 <div clss="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center; flex-direction: column;" >
   <div style="flex: 1; max-width: 333;">
-  <img src="{{ '/images/CHI2025_wehavetobe.png' | relative_url }} " alt="" style="width: 100%; height: auto; display: block;">
+  <img src="{{ '/images/CHI2025_wehavetobe.png' | relative_url }} " alt="" style="display: block;">
   </div>
   <div style="flex: 2; max-width: 667;">
   <p> <b>“We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes.</b> <br> <a href= "https://doi.org/10.1145/3706598.3713617"><em>CHI 2025</em> </a> <br><br> Even well-intentioned researchers may engage in health equity tourism. We explore mobile health design for Black older adults with low income, based on a two-year partnership with community sites and semi-structured interviews. W provide actionable recommendations for HCI researchers to mitigate health equity tourism, and reframe our findings through a social-ecological perspective to generate design insights  to better serve under-resourced communities.  </p>  
@@ -27,7 +27,7 @@ permalink: /projects/
 
 <div clss="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center; flex-direction: column;" >
   <div style="flex: 1; max-width: 333;">
-  <img src="{{ '/images/CSCW2025_pokerwithplay.png' | relative_url }}" alt="" style="width: 100%; height: auto; display: block;">
+  <img src="{{ '/images/CSCW2025_pokerwithplay.png' | relative_url }}" alt="" style="display: block;">
     </div>
     <div style="flex: 2; max-width: 667;">
     <p> <b>“Poker with Play Money”: Exploring Psychotherapist Training with Virtual Patients.</b> <br> <em>Forthcoming in PACM & CSCW 2025</em> <br><br> Psychotherapists-in-training extensively engage in role-play exercises to practice interpersonal and therapeutic skills. We provide a case study of a realistic "virtual patient" system, evaluated by trained psychotherapists in comparison to their previous experiences with both real role-play partners and real patients. Our findings explore key interpersonal skills of psychotherapy, the utility of virtual patients compared to traditional role-play techniques, and factors which impacted psychotherapist-perceived "humanness" of the virtual patient.  </p>
@@ -36,7 +36,7 @@ permalink: /projects/
 
 <div clss="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center; flex-direction: column;" >
   <div style="flex: 1; max-width: 333;">
-  <img src="{{ '/images/IEEE2025_towardsmoreequitable.png' | relative_url }}" alt="" style="width: 100%; height: auto; display: block;">
+  <img src="{{ '/images/IEEE2025_towardsmoreequitable.png' | relative_url }}" alt="" style="display: block;">
   </div>
   <div style="flex: 2; max-width: 667;">
   <p> <b>Equitable Diabetic Foot Ulcer Recognition Modeling** </b><br> <em>Forthcoming in IEEE EMBS BHI 2025</em> and <a href= "https://diabetesjournals.org/diabetes/article/74/Supplement_1/259-OR/159965"><em>ADA 85th Scientific Sessions</em></a> <br><br> Diabetic foot ulcers take a disproportionate toll on communities of color; however, these communities are currently underrepresented in image datasets. In support of more equitable and generalizable computational modeling, we detail our two-year effort to create the first repository of diabetic foot ulcer images collected predominantly from patients of color in naturalistic settings. Using our dataset, we evaluate state-of-the-art foot ulcer recognition models and provide evidence that they provide insufficient performance. We release our image dataset to support the development of larger, more diverse datasets, and ultimately more equitable models for diabetic foot care. </p>  
