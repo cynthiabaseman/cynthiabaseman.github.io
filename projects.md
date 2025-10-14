@@ -10,7 +10,7 @@ permalink: /projects/
 
 
 
-<div clss="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+<div clss="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center; flex-direction: column;" >
   <div style="flex: 1; max-width: 333;">
   <img src="{{ '/images/CHI2025_wehavetobe.png' | relative_url }} " alt="" style="width: 100%; height: auto; display: block;">
   </div>
@@ -25,7 +25,7 @@ permalink: /projects/
   <p> <b>Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community.</b><br> <em>Forthcoming in IMWUT</em> <br><br> Imagined visions of the future underlie much of the history of ubiquitous computing. Critiques of speculative design approaches, however, amplify concerns of ubicomp’s inherent focus on the future, inciting questions of who is futuring and how to amplify historically marginalized voices. Taking a research through design approach, we conducted participatory speculative design workshops focusing on diabetes self-monitoring technology, within under-community sites which predominantly serve Black older adults. We explore community member perspectives on three modalities of ubiquitous health technologies: smarthome, wearable, and smartphone application. While much previous research focuses on diabetes technologies, we explore an area which is currently understudied by the ubicomp community: diabetic foot disease monitoring. Further, we center a community which faces greater diabetes health disparities. We provide findings related to health priorities and values of community members, and their broader considerations regarding current and speculative (AI-based) technologies. We reflect on the tensions between current clinical standards of care and the participant agency afforded by participatory design. Finally, we discuss the ways in which participants' views of current and speculative technologies contrast with ubicomp's as a field, specifically surrounding temporality and sociohistorical context.  </p>  
 </div> -->
 
-<div clss="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+<div clss="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center; flex-direction: column;" >
   <div style="flex: 1; max-width: 333;">
   <img src="{{ '/images/CSCW2025_pokerwithplay.png' | relative_url }}" alt="" style="width: 100%; height: auto; display: block;">
     </div>
@@ -34,7 +34,7 @@ permalink: /projects/
     </div>
 </div>
 
-<div clss="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+<div clss="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center; flex-direction: column;" >
   <div style="flex: 1; max-width: 333;">
   <img src="{{ '/images/IEEE2025_towardsmoreequitable.png' | relative_url }}" alt="" style="width: 100%; height: auto; display: block;">
   </div>
