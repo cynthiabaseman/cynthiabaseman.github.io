@@ -14,7 +14,7 @@ title: Cynthia M. Baseman
   </div>
 
 
-<div class="flex-container" style="display: flex; flex-wrap: wrap; align-items: center; margin-left:50px; margin-right:50px; margin-top:5px; margin-below:25px; box-sizing:border-box; max-width: 1000px">
+<div class="flex-container" style="display: flex; flex-wrap: wrap; align-items: center">
   <div style="flex: 1; max-width: 333">
   <img src="images/baseman.JPG" alt="Headshot Image">
   </div>
