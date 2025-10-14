@@ -30,13 +30,13 @@
     margin-top: 2rem;   /* or padding-top: 2rem; */
     margin-bottom: 1rem;
   }
+  .nav-toggle {
+    display: none;
+  }
   .side-nav {
     display: block;
     position: static;
     box-shadow: none;
-  }
-  .nav-toggle {
-    display: none;
   }
 }
 
@@ -148,7 +148,7 @@
   left: 260px; /* move button right so it doesn’t block menu */
   /* or use display:none; to hide it */
 }
-  .nav-toggle {
+.nav-toggle {
     display: block;
     position: fixed;
     top: 1rem;
