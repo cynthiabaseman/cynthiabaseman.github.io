@@ -49,11 +49,22 @@
 
 .project-name,
 .project-tagline {
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 12vh;
+  padding-right: 12vh;
   margins: auto 0;
   font-weight: normal;
   /* Optional: Adjust bottom margin for spacing */
+}
+
+@media (max-width: 768px) {
+  .project-name,
+  .project-tagline {
+    padding-left: 5vhp;
+    padding-right: 5vh;
+    margins: auto 0;
+    font-weight: normal;
+  /* Optional: Adjust bottom margin for spacing */
+  }
 }
 
 
@@ -61,7 +72,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 200px;
+  width: 12vh;
   height: 100%;
   padding-top: 10px;
   color: #000000;
@@ -140,7 +151,7 @@
   top: 1rem;
   left: 1rem;
   z-index: 1100;
-  font-size: 1.5rem;
+  font-size: 1rem;
   background: none;
   border: none;
   cursor: pointer;
