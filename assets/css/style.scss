@@ -30,6 +30,14 @@
     margin-top: 2rem;   /* or padding-top: 2rem; */
     margin-bottom: 1rem;
   }
+  .side-nav {
+    display: block;
+    position: static;
+    box-shadow: none;
+  }
+  .nav-toggle {
+    display: none;
+  }
 }
 
 
@@ -109,9 +117,21 @@
 @media (max-width: 768px) {
   .side-nav {
     display: none;
+    position: absolute;
+    top: 50px; /* adjust as needed */
+    left: 0;
+    background-color: white;
+    width: 80%;
+    padding: 1rem;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
   }
-  .hamburger {
-    display: block; /* Show hamburger icon */
+  .nav-toggle {
+    display: block;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    margin: 1rem;
   }
 }
 
