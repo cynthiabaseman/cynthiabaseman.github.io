@@ -129,9 +129,6 @@
     transition: transform 0.3s ease;
     z-index: 1000;
   }
-  .side-nav.open {
-    transform: translateX(0);
-  }
   .nav-toggle {
     display: block;
     position: fixed;
@@ -142,8 +139,8 @@
     background: none;
     border: none;
     cursor: pointer;
+    transition: left 0.3s ease;
   }
-}
 
 /* Show side-nav when hamburger is active */
 .side-nav.active {
@@ -154,6 +151,18 @@
   width: 80%;
   z-index: 1000;
   overflow-y: auto;
+}
+
+.side-nav.open {
+  left: 0; /* slide in */
+  transform: translateX(0);
+}
+
+/* When nav is open, push button to the right or hide it */
+.side-nav.open ~ .nav-toggle {
+  left: 260px; /* move button right so it doesn’t block menu */
+  /* or use display:none; to hide it */
+}
 }
 
 
