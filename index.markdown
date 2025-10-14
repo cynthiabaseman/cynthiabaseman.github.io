@@ -13,16 +13,6 @@ title: Cynthia M. Baseman
     <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="width:90px;padding-left:15px;padding-right:30px"></a> 
   </div>
 
-<p class="custom-text">
-  Here's a paragraph introducing my images.
-</p>
-
-<div class="image-row">
-  <img src="/path/to/image1.jpg" alt="Image 1">
-  <img src="/path/to/image2.jpg" alt="Image 2">
-  <img src="/path/to/image3.jpg" alt="Image 3">
-</div>
-
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; margin-left:50px; margin-right:50px; margin-top:25px; margin-below:25px; box-sizing:border-box; max-width: 1000px">
   <div style="flex: 1; max-width: 333; margin-right:10px; padding-right:20px">
