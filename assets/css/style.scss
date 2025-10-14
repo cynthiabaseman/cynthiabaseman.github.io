@@ -57,9 +57,13 @@
 }
 
 @media (max-width: 768px) {
+  .project-name{
+    padding-top:5vh;
+    font-size: 16px;
+  }
   .project-name,
   .project-tagline {
-    padding-left: 5vhp;
+    padding-left: 5vh;
     padding-right: 5vh;
     margins: auto 0;
     font-weight: normal;
@@ -90,7 +94,7 @@
 .side-nav a {
   top: 0;
   left: 0;
-  width: 200px;
+  width: 12vh;
   height: 100%;
   color: #000000;
   font-size: 16px;
