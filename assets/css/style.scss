@@ -116,6 +116,13 @@
   padding: 1rem;
 }
 
+.image-row img {
+    width: 11vh;
+    height: 11vh;
+    max-width: 75%;   /* Prevent overflow */
+    border-radius: 8px; /* optional, for style */
+}
+
 
 @media (max-width: 768px) {
   
