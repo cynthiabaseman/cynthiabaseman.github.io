@@ -7,9 +7,21 @@ title: Cynthia M. Baseman
 <body style = "background-color:#ffffff">
 </body>
 
-  <div style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="width:60px;padding-left:5px;padding-right:15px"></a> <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="width:80px;padding-left:20px;padding-right:20px"></a> <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="width:90px;padding-left:15px;padding-right:30px"></a> 
+  <div class="image-row" style="text-align: center;">
+    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="width:60px;padding-left:5px;padding-right:15px"></a> 
+    <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="width:80px;padding-left:20px;padding-right:20px"></a> 
+    <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="width:90px;padding-left:15px;padding-right:30px"></a> 
   </div>
+
+<p class="custom-text">
+  Here's a paragraph introducing my images.
+</p>
+
+<div class="image-row">
+  <img src="/path/to/image1.jpg" alt="Image 1">
+  <img src="/path/to/image2.jpg" alt="Image 2">
+  <img src="/path/to/image3.jpg" alt="Image 3">
+</div>
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; margin-left:50px; margin-right:50px; margin-top:25px; margin-below:25px; box-sizing:border-box; max-width: 1000px">
