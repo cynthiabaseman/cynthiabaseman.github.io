@@ -212,9 +212,12 @@
     }
     .project-name,
     .main-content {
-      padding-left: 5vh;
-      padding-right: 5vh;
+      padding-left: 0vh;
+      padding-right: 0vh;
       font-weight: normal;
+    }
+    .main-content{
+      font-size:11;
     }
     .page-header,{
       padding-bottom: 0px;
@@ -236,6 +239,7 @@
   .flex-container {
     flex-direction: column;
     text-align: center;
+    gap: 5px;
   }
   .flex-container img {
     width: 80%;  /* scale image down */
