@@ -138,9 +138,11 @@
   overflow-y: auto;
 }
 
-.side-nav.open {
-  left: 0; /* slide in */
-  transform: translateX(0);
+.side-nav.open ~ .nav-toggle {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  left: 1rem; /* keep in place */
 }
 
 /* When nav is open, push button to the right or hide it */
