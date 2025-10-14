@@ -207,13 +207,16 @@
       padding-left: 5vh;
       padding-right: 5vh;
       font-weight: normal;
-      margin-bottom: 5vh;
+      margin-bottom: 0vh;
     }
     .project-name,
     .main-content {
       padding-left: 5vh;
       padding-right: 5vh;
       font-weight: normal;
+    }
+    .page-header,{
+      padding-bottom: 0px;
     }
       .image-row {
         display: flex;
