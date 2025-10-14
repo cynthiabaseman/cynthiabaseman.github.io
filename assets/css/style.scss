@@ -108,6 +108,14 @@
   color: #000000;
 }
 
+.image-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem; /* space between images */
+  padding: 1rem;
+}
+
 @media (max-width: 768px) {
   
       .side-nav {
