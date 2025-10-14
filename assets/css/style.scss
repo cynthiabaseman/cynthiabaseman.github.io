@@ -131,6 +131,12 @@
   justify-content: center;
   gap: 5em;
   text-align: left; /* Desktop default */
+  margin-left:50px; 
+  margin-right:50px; 
+  margin-top:5px;
+  margin-below:25px; 
+  box-sizing:border-box; 
+  max-width: 1000px;
 }
 
 .flex-container img {
@@ -240,7 +246,9 @@
     flex-direction: column;
     text-align: center;
     gap: 5px;
-    margin
+    margin-left:10px;
+    margin-right:10px;
+    box-sizing:border-box; 
   }
   .flex-container img {
     width: 80%;  /* scale image down */
