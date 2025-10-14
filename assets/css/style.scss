@@ -128,7 +128,7 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 1em;
+  gap: 5em;
   text-align: left; /* Desktop default */
 }
 
@@ -241,6 +241,7 @@
     width: 80%;  /* scale image down */
     max-width: 300px;
     margin: 0 auto;
+    gap: 0em;
   }
   .flex-container .text-content {
     font-size: 0.95em;  /* slightly smaller text */
