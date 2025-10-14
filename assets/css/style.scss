@@ -167,9 +167,8 @@
 }
 
 .projects-flex-container img {
-  max-width: 60%;
+  max-width: 100%;
   height: auto;
-  padding-right:10vh;
 }
 
 .projects-flex-container .text-content {
@@ -310,7 +309,6 @@
 .projects-flex-container img {
     width: 60%;  /* scale image down */
     max-width: 175px;
-    margin: 0 auto;
     gap: 0em;
     text-align: center;
     gap: 5px;
