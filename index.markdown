@@ -8,9 +8,9 @@ title: Cynthia M. Baseman
 </body>
 
   <div class="image-row" style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png" style="height:11vh; width:11vh"></a> 
-    <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png" style="height:11vh; width:11vh"></a> 
-    <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" style="height:11vh; width:11vh"></a> 
+    <a href="https://scholar.google.com/citations?user=GrFXcB8AAAAJ&hl=en/)"><img src="images/google_scholar.png"></a> 
+    <a href="https://www.linkedin.com/in/cynthia-m-baseman-865173133/)"><img src="images/linkedin.png"></a> 
+    <a href="mailto:baseman@gatech.edu"><img src="images/outlook.png" ></a> 
   </div>
 
 
