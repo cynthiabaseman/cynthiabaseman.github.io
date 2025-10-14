@@ -118,13 +118,16 @@
   .side-nav {
     display: none;
     position: fixed;
-    top: 50px; /* adjust as needed */
+    top: 0px; /* adjust as needed */
     left: 0;
     background-color: white;
-    width: 80%;
+    background: white;
+    height: 100%;
+    width: 75%;
     padding: 1rem;
     box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
     transform: translateX(-100%);
+    transition: transform 0.3s ease;
     z-index: 1000;
   }
   .side-nav.open {
