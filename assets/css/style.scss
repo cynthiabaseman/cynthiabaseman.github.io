@@ -182,10 +182,11 @@
       left: 1rem;
       z-index: 1100;
       font-size: 1rem;
-      background: none;
+      background: white;
       border: none;
       cursor: pointer;
       transition: opacity 0.3s ease;
+      
       }
       .page-wrapper.nav-open .nav-toggle {
       opacity: 0;
