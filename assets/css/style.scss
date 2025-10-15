@@ -301,14 +301,15 @@
     flex-direction: column;
     text-align: center;
     gap: 5px;
-   margin-left:10px;
+    margin-left:10px;
     margin-right:10px;
     box-sizing:border-box; 
 }
 
 .projects-flex-container img {
-    width: 60%;  /* scale image down */
+    width: 70%;  /* scale image down */
     max-width: 175px;
+    margin: 0 auto;
     gap: 0em;
     text-align: center;
     gap: 5px;
