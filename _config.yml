@@ -42,8 +42,8 @@ navigation:
     url: /publications/
   - title: Teaching & Service
     url: /teaching_service/
-  - title: About
-    url: /about/
+  - #title: About
+    #url: /about/
 
     
 #plugins:
