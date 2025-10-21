@@ -29,7 +29,7 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp;[Upcoming] "Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes." To Be Presented at IEEE EMBS International Conference on Biomedical and Health Informatics 2025. (2025, October). 
 
-&nbsp;&nbsp;&nbsp;[Upcoming] "Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play." To Be Presented at CSCW 2025. (2025, October). 
+&nbsp;&nbsp;&nbsp; "Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play." Presented at CSCW 2025. (2025, October). 
 
 &nbsp;&nbsp;&nbsp;“259-OR: Evaluating Diabetic Foot Ulcer Recognition Algorithms for Patients of Color.” Presented at the 85th ADA Scientific Sessions 2025. (2025, June).
 
