@@ -20,7 +20,7 @@ permalink: /projects/
 </div>
 
 
- <!--  <div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+<!--  <div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
   <div style="flex: 1; max-width: 333;">
   <img src="images/IMWUT2025_clinicalstandards.png" alt="" style="display: block;margin:auto;">
     </div>
