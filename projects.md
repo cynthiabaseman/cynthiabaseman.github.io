@@ -10,7 +10,7 @@ permalink: /projects/
 
 
 
-<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center; margin:auto;" >
   <div style="flex: 1; max-width: 333;">
   <img src="{{ '/images/CHI2025_wehavetobe.png' | relative_url }} " alt="" style="display: block;">
   </div>
@@ -27,7 +27,7 @@ permalink: /projects/
 
 
 
-<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;  margin:auto;" >
   <div style="flex: 1; max-width: 333;">
   <img src="{{ '/images/CSCW2025_pokerwithplay.png' | relative_url }}" alt="" style="display: block;">
     </div>
@@ -36,7 +36,7 @@ permalink: /projects/
     </div>
 </div>
 
-<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;  margin:auto;" >
   <div style="flex: 1; max-width: 333;">
   <img src="{{ '/images/IEEE2025_towardsmoreequitable.png' | relative_url }}" alt="" style="display: block;">
   </div>
