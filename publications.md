@@ -11,7 +11,7 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp; [Just Accepted] **Baseman, C. M.**, et al. Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.
 
-&nbsp;&nbsp;&nbsp; [Forthcoming] **Baseman, C. M.**, et al. Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes. In 2025 IEEE EMBS International Conference on Biomedical and Health Informatics. IEEE. 
+&nbsp;&nbsp;&nbsp; [Forthcoming] **Baseman, C. M.*** and Shi, Y.*, et al. Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes. In 2025 IEEE EMBS International Conference on Biomedical and Health Informatics. IEEE. 
 
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://dl.acm.org/doi/10.1145/3757450">https://dl.acm.org/doi/10.1145/3757450</a> 
 
