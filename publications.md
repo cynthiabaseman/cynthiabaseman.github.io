@@ -9,7 +9,8 @@ permalink: /publications/
 
 <h2 style="color:black;"> <strong>Conference Presentations with Proceedings (refereed)</strong> </h2>
 
-&nbsp;&nbsp;&nbsp; [Just Accepted] **Baseman, C. M.**, et al. Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. <a href= "https://doi.org/10.1145/3770702 ">https://doi.org/10.1145/3770702 </a> 
+
 
 &nbsp;&nbsp;&nbsp; [Forthcoming] **Baseman, C. M.*** and Shi, Y.*, et al. Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes. In 2025 IEEE EMBS International Conference on Biomedical and Health Informatics. IEEE. 
 
@@ -17,9 +18,9 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp; Xu, K., **Baseman, C.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://dl.acm.org/doi/10.1145/3757519">https://dl.acm.org/doi/10.1145/3757519</a> 
 
-&nbsp;&nbsp;&nbsp; Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction, 9(2), 1-36. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
+&nbsp;&nbsp;&nbsp; Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
 
-&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (pp. 1-17). <a href= "https://doi.org/10.1145/3706598.3713617">https://doi.org/10.1145/3706598.3713617</a> 
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3706598.3713617">https://doi.org/10.1145/3706598.3713617</a> 
 
 <h2 style="color:black;"> <strong>Journal Papers (refereed)</strong> </h2>
 
