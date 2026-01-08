@@ -23,7 +23,7 @@ permalink: /projects/
 
 <div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
   <div style="flex: 1; max-width: 333;">
-  <img src="{{ '/images/IMWUT2025_clinicalstandards_new.png' | relative_url }}" alt="" style="display: block;margin:auto;">
+  <img src="{{ '/images/IMWUT2025_clinicalstandards_new.png' | relative_url }} " alt="" style="display: block;margin:auto;">
     </div>
     <div style="flex: 2; max-width: 667;">
   <p> <b>Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community.</b><br> <a href="https://dl.acm.org/doi/10.1145/3770702"><em>IMWUT Dec 2025</em></a> <br><br> Imagined visions of the future underlie the history of ubiquitous computing, but critiques of speculative design raise questions of how to amplify historically marginalized voices. Taking a research through design approach, we conducted participatory speculative design workshops focusing on diabetes self-monitoring technology, with Black older adults living in publicly subsidized housing. We provide findings related to health priorities and values of community members, and broader considerations regarding current and speculative (AI-based) technologies. We reflect on the tensions between current clinical standards of care and the participant agency afforded by participatory design, as well as how participants' views of health technologies contrast with ubicomp's as a field, highlighting temporality and sociohistorical context.  </p>  
