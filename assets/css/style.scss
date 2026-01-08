@@ -54,7 +54,7 @@
   /* Optional: Adjust bottom margin for spacing */
 }
 .project-tagline {
-  margin-bottom:5vh;
+  margin-bottom:1vh;
 }
 
 
@@ -117,10 +117,7 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 1rem; /* more predictable spacing */
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 1rem;
-  padding-bottom: 0rem;
+  padding: 1rem;
 }
 
 .image-row img {
