@@ -33,7 +33,7 @@ title: Cynthia M. Baseman
  -->
 
 
-<b>Research Interests:</b> HCI, Health Equity, Community-based Design, Mobile & Ubiquitious Computing
+<b>Research Interests:</b> HCI, Health Equity, Community-based Design, Mobile & Ubiquitous Computing
 
 <b>Contact Me:</b> baseman[at]gatech[dot]edu
 
