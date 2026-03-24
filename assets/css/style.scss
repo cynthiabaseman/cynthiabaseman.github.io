@@ -31,7 +31,7 @@
   .nav-toggle {
     display: none;
   }
-  .topnav {
+  .sideNav {
     display: block;
     position: static;
     box-shadow: none;
@@ -59,7 +59,7 @@
 }
 
 
-.nav {
+.sideNav {
   position: fixed;
   top: 0;
   left: 0;
@@ -79,7 +79,7 @@
   box-shadow: none;
 }
 
-.nav a {
+.sideNav a {
   top: 0;
   left: 0;
   width: 30vh;
@@ -98,19 +98,19 @@
   border-radius: 5px; 
 }
 
-.nav ul {
+.sideNav ul {
   display: flex;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.nav li {
+.sideNav li {
   margin-bottom: 0.75em;
   text-align: center;
 }
 
-.nav li:last-child {
+.sideNav li:last-child {
   margin-right: 0;   
 }
 
@@ -222,18 +222,18 @@
       opacity: 0;
       pointer-events: none;
       }
-      .nav ul {
+      .sideNav ul {
       display: flex;
       flex-direction: column;
       align-items: center;
       padding: 0;
       margin: 0 auto;
       }
-      .nav li {
+      .sideNav li {
       width: 100%;
       text-align: center;
       }
-      .nav a {
+      .sideNav a {
       display: block;
       width: 100%;
       padding: 1rem;
