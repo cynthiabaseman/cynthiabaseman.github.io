@@ -205,10 +205,8 @@
       top: 0;
       left: 0;
       background-color: white;
-      height: 100%;
-      width: 50%;
-      padding: 4rem 1rem 1rem 1rem; 
-      box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+      height: 100px;
+      width: 100%;
       transform: translateX(-100%);
       z-index: 1000;
     }
@@ -236,7 +234,7 @@
       }
       #sideNav ul {
       display: flex;
-      flex-direction: row;
+      flex-direction: column;
       align-items: center;
       padding: 0;
       margin: 0 auto;
