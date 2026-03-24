@@ -58,9 +58,8 @@
     <header class="page-header" role="banner">
 
       <h1 class="project-name" style="text-align: center; color:black;" >{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      {% if page.url == "/" %}
       <h2 class="project-tagline" style="text-align: center; color:#393939;">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
     </header> 
     </main>
