@@ -251,12 +251,9 @@
       font-size: 22px;
     }
     .project-tagline,{
-      padding-bottom: 1vh;
-      padding-left: 5vh;
-      padding-right: 5vh;
       font-weight: normal;
       margin-bottom: 0vh;
-      font-size: 0.8em;
+      font-size: 16px;
     }
     .project-name,
     .main-content {
@@ -281,7 +278,7 @@
       }
       
     .image-row img {
-      height: 6vh;       /* 11% of screen height */
+      height: 35px;       /* 11% of screen height */
       width: auto;        /* maintain aspect ratio */
       max-width: 100%;   /* Prevent overflow */
       border-radius: 4px;
