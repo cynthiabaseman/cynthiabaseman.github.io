@@ -218,7 +218,7 @@
       transform: translateX(0); // Slide in menu
     }
     
-    #nav-toggle {
+    .nav-toggle {
       display: block;
       position: fixed;
       top: 1rem;
@@ -231,7 +231,7 @@
       transition: opacity 0.3s ease;
       
       }
-      .page-wrapper#nav-open #nav-toggle {
+      .page-wrapper .nav-open .nav-toggle {
       opacity: 0;
       pointer-events: none;
       }
