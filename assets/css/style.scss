@@ -282,12 +282,12 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 1rem; /* more predictable spacing */
+        gap: 2rem; /* more predictable spacing */
         padding: 1rem;
       }
       
     .image-row img {
-      height: 35px;       /* 11% of screen height */
+      height: 30px;       /* 11% of screen height */
       width: auto;        /* maintain aspect ratio */
       max-width: 100%;   /* Prevent overflow */
       border-radius: 4px;
