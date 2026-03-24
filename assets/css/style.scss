@@ -60,7 +60,7 @@
 
 
 #sideNav {
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   width: 30vh;
@@ -87,13 +87,10 @@
   height: 100%;
   color: #000000;
   font-size: 16px;
-  background-color: #e0dbdb; // or whatever color fits your theme
   z-index: 1000;
-  display: block; 
   text-decoration: none;
   text-decoration: none;
   font-weight: bold;
-  box-shadow: 2px 0 8px rgba(10, 10, 10, 0.1);
   padding: 1rem 1rem 1rem 1rem;
   border-radius: 5px; 
 }
