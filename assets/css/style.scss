@@ -28,7 +28,7 @@
     margin-bottom: 2vh;
     font-size: 2.5rem;
   }
-  .nav-toggle {
+  .sideNav-toggle {
     display: none;
   }
   .sideNav {
@@ -183,7 +183,7 @@
 
 
 @media (max-width: 768px) {
-      .nav {
+      .sideNav {
       position: fixed;
       top: 0;
       left: 0;
@@ -197,15 +197,15 @@
       z-index: 1000;
     }
     
-    .page-wrapper.nav-open .nav {
+    .page-wrapper.sideNav-open .sideNav {
       transform: translateX(0); // Slide in menu
     }
     
-    .nav.open {
+    .sideNav.open {
         transform: translateX(0); /* Slide in */
     }
     
-    .nav-toggle {
+    .sideNav-toggle {
       display: block;
       position: fixed;
       top: 1rem;
@@ -218,7 +218,7 @@
       transition: opacity 0.3s ease;
       
       }
-      .page-wrapper.nav-open .nav-toggle {
+      .page-wrapper.sideNav-open .sideNav-toggle {
       opacity: 0;
       pointer-events: none;
       }
