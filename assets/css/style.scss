@@ -28,10 +28,10 @@
     margin-bottom: 2vh;
     font-size: 2.5rem;
   }
-  .sideNav-toggle {
+  #sideNav-toggle {
     display: none;
   }
-  .sideNav {
+  #sideNav {
     display: block;
     position: static;
     box-shadow: none;
@@ -59,7 +59,7 @@
 }
 
 
-.sideNav {
+#sideNav {
   position: fixed;
   top: 0;
   left: 0;
@@ -79,7 +79,7 @@
   box-shadow: none;
 }
 
-.sideNav a {
+#sideNav a {
   top: 0;
   left: 0;
   width: 30vh;
@@ -98,19 +98,19 @@
   border-radius: 5px; 
 }
 
-.sideNav ul {
+#sideNav ul {
   display: flex;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.sideNav li {
+#sideNav li {
   margin-bottom: 0.75em;
   text-align: center;
 }
 
-.sideNav li:last-child {
+#sideNav li:last-child {
   margin-right: 0;   
 }
 
@@ -183,7 +183,7 @@
 
 
 @media (max-width: 768px) {
-      .sideNav {
+      #sideNav {
       position: fixed;
       top: 0;
       left: 0;
@@ -197,15 +197,15 @@
       z-index: 1000;
     }
     
-    .page-wrapper.sideNav-open .sideNav {
+    .page-wrapper#sideNav-open #sideNav {
       transform: translateX(0); // Slide in menu
     }
     
-    .sideNav.open {
+    #sideNav.open {
         transform: translateX(0); /* Slide in */
     }
     
-    .sideNav-toggle {
+    #sideNav-toggle {
       display: block;
       position: fixed;
       top: 1rem;
@@ -218,22 +218,22 @@
       transition: opacity 0.3s ease;
       
       }
-      .page-wrapper.sideNav-open .sideNav-toggle {
+      .page-wrapper#sideNav-open #sideNav-toggle {
       opacity: 0;
       pointer-events: none;
       }
-      .sideNav ul {
+      #sideNav ul {
       display: flex;
       flex-direction: column;
       align-items: center;
       padding: 0;
       margin: 0 auto;
       }
-      .sideNav li {
+      #sideNav li {
       width: 100%;
       text-align: center;
       }
-      .sideNav a {
+      #sideNav a {
       display: block;
       width: 100%;
       padding: 1rem;
