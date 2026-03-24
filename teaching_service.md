@@ -6,6 +6,11 @@ permalink: /teaching_service/
 
 <h1 style="text-align: center; color:black;"> Teaching Experience</h1>
 
+Instructor, Georgia Instittue of Technology
+<ul>
+  <li> (Upcoming) CS 3750 User Interface Design | Summer 2026</li>
+</ul>
+
 Graduate Teaching Assistant, Georgia Institute of Technology
 <ul>
   <li>Head TA: CS 7470 Mobile & Ubiquitous Computing | Instructor: Dr. Clint Zeagler | Summer 2023</li>
