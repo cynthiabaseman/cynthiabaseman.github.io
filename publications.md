@@ -21,7 +21,7 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://dl.acm.org/doi/10.1145/3757450">https://dl.acm.org/doi/10.1145/3757450</a> 
 
-&nbsp;&nbsp;&nbsp; Xu, K., **Baseman, C.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://dl.acm.org/doi/10.1145/3757519">https://dl.acm.org/doi/10.1145/3757519</a> 
+&nbsp;&nbsp;&nbsp; Xu, K., **Baseman, C. M.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://dl.acm.org/doi/10.1145/3757519">https://dl.acm.org/doi/10.1145/3757519</a> 
 
 &nbsp;&nbsp;&nbsp; Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
 
@@ -29,9 +29,15 @@ permalink: /publications/
 
 <h2 style="color:black;"> <strong>Journal Papers (refereed)</strong> </h2>
 
+&nbsp;&nbsp;&nbsp; Lee, H., Menezes, V., Zeng, S., Kim, C., **Baseman C. M.**, et al. 2026. Data-Driven Feedback Identifies Focused Ultrasound Exposure Regimens for Improved Nanotheranostic Targeting of the Brain. Advanced Science. <a href= "https://doi.org/10.1002/advs.202517834">https://doi.org/10.1002/advs.202517834</a> 
+
 &nbsp;&nbsp;&nbsp;**Baseman C.**, et al. 2023. Intelligent Care Management for Diabetic Foot Ulcers: A Scoping Review of Computer Vision and Machine Learning Techniques and Applications. Journal of Diabetes Science and Technology. <a href= "https://doi.org/10.1177/19322968231213378">https://doi.org/10.1177/19322968231213378</a> 
 
 <h2 style="color:black;"> <strong>Presentations & Invited Talks</strong> </h2>
+
+&nbsp;&nbsp;&nbsp;(Upcoming) “Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. To be presented at CHI 2026. (2026, April).  
+
+&nbsp;&nbsp;&nbsp;(Upcoming) “Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care.” To be presented at CHI 2026. (2026, April).  
 
 &nbsp;&nbsp;&nbsp;"Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes." Presented at IEEE EMBS International Conference on Biomedical and Health Informatics 2025. (2025, October). 
 
@@ -46,6 +52,8 @@ permalink: /publications/
 &nbsp;&nbsp;&nbsp;“Beyond Health Equity Tourism: Leveraging Community-Based Participatory Research to Promote Diabetes Care Engagement.” Presented at the December 2024 NIDDK-CDTR Meeting. (2024, December).
 
 <h2 style="color:black;"> <strong>Posters, Extended Abstracts, & Non-Archival Works</strong></h2>
+
+&nbsp;&nbsp;&nbsp; Dahiya, V., **Baseman, C. M**, et al. (2026, January). Photovoice for Graduate Student Belonging. Georgia Tech Career, Research, and Innovation Development Conference (CRIDC) 2026.
 
 &nbsp;&nbsp;&nbsp;**Baseman, C.**, et al. (2025, June). 259-OR: Evaluating Diabetic Foot Ulcer Recognition Algorithms for Patients of Color. Diabetes, 74(Supplement 1), 259-OR. <a href= "https://doi.org/10.2337/db25-259-OR">https://doi.org/10.2337/db25-259-OR</a> 
 
