@@ -124,11 +124,11 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 3rem; /* more predictable spacing */
-  padding: 1rem;
+  padding: 0.5rem;
 }
 
 .image-row img {
-  height: 30px;       /* 7% of screen height */
+  height: 35px;       /* 7% of screen height */
   width: auto;        /* maintain aspect ratio */
   border-radius: 4px;
 }
