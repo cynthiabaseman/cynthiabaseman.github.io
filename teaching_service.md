@@ -6,7 +6,7 @@ permalink: /teaching_service/
 
 <h1 style="text-align: center; color:black;"> Teaching Experience</h1>
 
-Instructor, Georgia Instittue of Technology
+Instructor, Georgia Institute of Technology
 <ul>
   <li> (Upcoming) CS 3750 User Interface Design | Summer 2026</li>
 </ul>
@@ -20,9 +20,9 @@ Graduate Teaching Assistant, Georgia Institute of Technology
 
 <h1 style="text-align: center; color:black;"> Leadership, Service, & Academic Mentorship </h1>
 
-President, <a href= "https://sites.gatech.edu/gradpride/">Graduate Pride </a> at Georgia Tech (Student Organization)
+Officer, <a href= "https://sites.gatech.edu/gradpride/">Graduate Pride </a> at Georgia Tech (Student Organization), Jan 2024 - Present
 
-Leadership Team,  <a href= "https://queerscience.lgbtqia.gatech.edu/">Queer Science </a> at Georgia Tech (Outreach Program)
+Leadership Team,  <a href= "https://queerscience.lgbtqia.gatech.edu/">Queer Science </a> at Georgia Tech (Outreach Program), Oct 2023 - May 2025
 
 Undergraduate Thesis Mentorship, Georgia Institute of Technology
 <ul>
