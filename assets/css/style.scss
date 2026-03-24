@@ -133,7 +133,7 @@
 }
 
 .image-row img {
-  height: 35px;       /* 7% of screen height */
+  height: 25px;       /* 7% of screen height */
   width: auto;        /* maintain aspect ratio */
   border-radius: 4px;
 }
@@ -191,6 +191,15 @@
 
 
 @media (max-width: 768px) {
+      h1 {
+        font-size: 1.2rem;
+      }
+      h2 {
+        font-size: 1rem;
+      }
+      h3 {
+        font-size: 0.8rem;
+      }
       #sideNav {
       position: fixed;
       top: 0;
@@ -331,15 +340,7 @@
     font-size: 0.95em;  /* slightly smaller text */
     padding: 0 1em;
 }
-h1 {
-  font-size: 1.2rem;
-}
-h2 {
-  font-size: 1rem;
-}
-h3 {
-  font-size: 0.8rem;
-}
+
 
 
 
