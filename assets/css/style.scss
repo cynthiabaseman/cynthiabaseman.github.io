@@ -214,15 +214,15 @@
       z-index: 1000;
     }
     
-    .page-wrapper#sideNav-open #sideNav {
+    .page-wrapper#nav-open #sideNav {
       transform: translateX(0); // Slide in menu
     }
     
-    #sideNav.open {
+    #nav.open {
         transform: translateX(0); /* Slide in */
     }
     
-    #sideNav-toggle {
+    #nav-toggle {
       display: block;
       position: fixed;
       top: 1rem;
@@ -235,7 +235,7 @@
       transition: opacity 0.3s ease;
       
       }
-      .page-wrapper#sideNav-open #sideNav-toggle {
+      .page-wrapper#nav-open #nav-toggle {
       opacity: 0;
       pointer-events: none;
       }
