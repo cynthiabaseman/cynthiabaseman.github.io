@@ -123,14 +123,14 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 1rem; /* more predictable spacing */
+  gap: 3rem; /* more predictable spacing */
   padding: 1rem;
 }
 
 .image-row img {
-  height: 30px;       /* 7% of screen height */
+  height: 40px;       /* 7% of screen height */
   width: auto;        /* maintain aspect ratio */
-  border-radius: 10px;
+  border-radius: 4px;
 }
 
 
