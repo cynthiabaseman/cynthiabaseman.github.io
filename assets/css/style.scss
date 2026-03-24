@@ -31,7 +31,7 @@
   .nav-toggle {
     display: none;
   }
-  .side-nav {
+  .topnav {
     display: block;
     position: static;
     box-shadow: none;
@@ -59,7 +59,7 @@
 }
 
 
-.side-nav {
+.nav {
   position: fixed;
   top: 0;
   left: 0;
@@ -79,7 +79,7 @@
   box-shadow: none;
 }
 
-.side-nav a {
+.nav a {
   top: 0;
   left: 0;
   width: 30vh;
@@ -98,19 +98,19 @@
   border-radius: 5px; 
 }
 
-.side-nav ul {
+.nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.side-nav li {
+.nav li {
   margin-bottom: 0.75em;
   text-align: center;
 }
 
 
-.side-nav a:hover {
+.nav a:hover {
   background-color: rgba(220, 220, 220, 0.5);
   color: #000000;
 }
@@ -183,7 +183,7 @@
 
 
 @media (max-width: 768px) {
-      .side-nav {
+      .nav {
       position: fixed;
       top: 0;
       left: 0;
@@ -197,11 +197,11 @@
       z-index: 1000;
     }
     
-    .page-wrapper.nav-open .side-nav {
+    .page-wrapper.nav-open .nav {
       transform: translateX(0); // Slide in menu
     }
     
-    .side-nav.open {
+    .nav.open {
         transform: translateX(0); /* Slide in */
     }
     
@@ -222,18 +222,18 @@
       opacity: 0;
       pointer-events: none;
       }
-      .side-nav ul {
+      .nav ul {
       display: flex;
       flex-direction: column;
       align-items: center;
       padding: 0;
       margin: 0 auto;
       }
-      .side-nav li {
+      .nav li {
       width: 100%;
       text-align: center;
       }
-      .side-nav a {
+      .nav a {
       display: block;
       width: 100%;
       padding: 1rem;
