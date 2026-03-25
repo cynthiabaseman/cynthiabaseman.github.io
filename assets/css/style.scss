@@ -41,6 +41,11 @@
     position: static;
     box-shadow: none;
   }
+  #sideNav li {
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-align: center;
+}
 }
 
 
@@ -109,11 +114,6 @@
   padding: 0;
   gap: 20px;
   justify-content: center;
-}
-
-#sideNav li {
-  margin-bottom: 0.75em;
-  text-align: center;
 }
 
 #sideNav li a:hover {
