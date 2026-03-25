@@ -57,7 +57,7 @@ permalink: /projects/
   <img src="{{ '/images/CSCW2025_pokerwithplay.png' | relative_url }}" alt="" style="display: block;margin:auto;">
     </div>
     <div style="flex: 2; max-width: 667;">
-    <p> <b>“Poker with Play Money”: Exploring Psychotherapist Training with Virtual Patients</b> <br> <a href= "https://dl.acm.org/doi/10.1145/3757450"><em> PACM/CSCW 2025</em> </a> <br><br> Psychotherapists-in-training extensively engage in role-play exercises to practice interpersonal and therapeutic skills. We provide a case study of a realistic "virtual patient" system, evaluated by trained psychotherapists in comparison to their previous experiences with both real role-play partners and real patients. Our findings explore key interpersonal skills of psychotherapy, the utility of virtual patients compared to traditional role-play techniques, and factors which impacted psychotherapist-perceived "humanness" of the virtual patient.  </p>
+    <p> <b>“Poker with Play Money”: Exploring Psychotherapist Training with Virtual Patients</b> <br> <a href= "https://dl.acm.org/doi/10.1145/3757450"><em> PACM/CSCW 2025</em> </a> <br><br> Psychotherapists-in-training extensively engage in role-play exercises to practice interpersonal and therapeutic skills. We provide a case study of a realistic "virtual patient" system, evaluated by trained psychotherapists in comparison to their previous experiences with both real role-play partners and real patients. Our findings explore key interpersonal skills of psychotherapy, the utility of virtual patients compared to traditional role-play techniques, and factors that impacted psychotherapist-perceived "humanness" of the virtual patient.  </p>
     </div>
 </div>
 
