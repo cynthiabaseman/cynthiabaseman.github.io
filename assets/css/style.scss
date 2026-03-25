@@ -234,6 +234,28 @@
       opacity: 0;
       pointer-events: none;
       }
+
+        .nav-close {
+        display: block;
+        position: fixed;
+        top: 1rem;
+        left: 1rem;
+        z-index: 1100;
+        font-size: 1rem;
+        background: white;
+        border: none;
+        cursor: pointer;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s ease;
+      }
+      
+      
+      .page-wrapper.nav-open .nav-close {
+        opacity: 1;
+        pointer-events: auto;
+      }
+
       #sideNav ul {
       display: flex;
       flex-direction: column;
