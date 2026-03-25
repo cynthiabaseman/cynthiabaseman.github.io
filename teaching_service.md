@@ -24,7 +24,7 @@ Officer, <a href= "https://sites.gatech.edu/gradpride/">Graduate Pride </a> at G
 
 Leadership Team,  <a href= "https://queerscience.lgbtqia.gatech.edu/">Queer Science </a> at Georgia Tech (Outreach Program), Oct 2023 - May 2025
 
-Undergraduate Thesis Mentorship, Georgia Institute of Technology
+Undergraduate Computer Science Thesis Mentorship, Georgia Institute of Technology
 <ul>
   <li> Isabelle Webb: Exploring Diabetes Health Technologies & AI in Community Spaces (Fall 2025 - Spring 2026)</li>
   <li> Krishna Ravishankar: Exploring the Implications of Medical Mistrust for the Design of Conversational Agents in Healthcare for Historically Marginalized Communities  (Spring 2025 - Fall 2025)</li>
