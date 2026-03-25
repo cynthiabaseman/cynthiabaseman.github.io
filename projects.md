@@ -31,6 +31,25 @@ permalink: /projects/
 </div> 
 
 
+<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+  <div style="flex: 1; max-width: 333;">
+  <img src="{{ '/images/CHI2026_medicalmistrust.png' | relative_url }} " alt="" style="display: block;margin:auto;">
+  </div>
+  <div style="flex: 2; max-width: 667;">
+  <p> <b>Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing.</b> <br> <a href= "https://arxiv.org/abs/2603.03416"><em>To Appear in CHI 2026</em> </a> <br><br> Despite increasing interest in culturally-sensitive health technologies, medical mistrust remains largely unexplored within human-centered computing. This is a rational, protective response based on historical context, structural inequities, and discrimination. To center race-based medical mistrust and the lived experiences of Black older adults with low income, we conducted interviews within publicly subsidized housing in the Southern U.S. Our reflexive themes describe community perspectives on health care and medical mistrust. We provide a reflective exercise for researchers to consider their positionality in relation to community engagements, and reframe our findings through Black Feminist Thought to propose design principles for health self-management technologies for communities with historically grounded medical mistrust.  </p>  
+  </div>
+</div>
+
+
+
+<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+  <div style="flex: 1; max-width: 333;">
+  <img src="{{ '/images/IEEE2025_towardsmoreequitable.png' | relative_url }}" alt="" style="display: block; margin:auto;">
+  </div>
+  <div style="flex: 2; max-width: 667;">
+  <p> <b>Equitable Diabetic Foot Ulcer Recognition Modeling </b><br> <a href= "https://ieeexplore.ieee.org/abstract/document/11269467"><em>IEEE EMBS BHI 2025</em></a> and <a href= "https://diabetesjournals.org/diabetes/article/74/Supplement_1/259-OR/159965"><em>ADA 85th Scientific Sessions</em></a> <br><br> Diabetic foot ulcers take a disproportionate toll on communities of color; however, these communities are currently underrepresented in image datasets. In support of more equitable and generalizable computational modeling, we detail our two-year effort to create the first repository of diabetic foot ulcer images collected predominantly from patients of color in naturalistic settings. Using our dataset, we evaluate state-of-the-art foot ulcer recognition models and provide evidence that they provide insufficient performance. We release our image dataset to support the development of larger, more diverse datasets, and ultimately more equitable models for diabetic foot care. </p>  
+  </div>
+</div>
 
 
 <div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
@@ -40,15 +59,6 @@ permalink: /projects/
     <div style="flex: 2; max-width: 667;">
     <p> <b>“Poker with Play Money”: Exploring Psychotherapist Training with Virtual Patients.</b> <br> <a href= "https://dl.acm.org/doi/10.1145/3757450"><em> PACM/CSCW 2025</em> </a> <br><br> Psychotherapists-in-training extensively engage in role-play exercises to practice interpersonal and therapeutic skills. We provide a case study of a realistic "virtual patient" system, evaluated by trained psychotherapists in comparison to their previous experiences with both real role-play partners and real patients. Our findings explore key interpersonal skills of psychotherapy, the utility of virtual patients compared to traditional role-play techniques, and factors which impacted psychotherapist-perceived "humanness" of the virtual patient.  </p>
     </div>
-</div>
-
-<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
-  <div style="flex: 1; max-width: 333;">
-  <img src="{{ '/images/IEEE2025_towardsmoreequitable.png' | relative_url }}" alt="" style="display: block; margin:auto;">
-  </div>
-  <div style="flex: 2; max-width: 667;">
-  <p> <b>Equitable Diabetic Foot Ulcer Recognition Modeling </b><br> <a href= "https://ieeexplore.ieee.org/abstract/document/11269467"><em>IEEE EMBS BHI 2025</em></a> and <a href= "https://diabetesjournals.org/diabetes/article/74/Supplement_1/259-OR/159965"><em>ADA 85th Scientific Sessions</em></a> <br><br> Diabetic foot ulcers take a disproportionate toll on communities of color; however, these communities are currently underrepresented in image datasets. In support of more equitable and generalizable computational modeling, we detail our two-year effort to create the first repository of diabetic foot ulcer images collected predominantly from patients of color in naturalistic settings. Using our dataset, we evaluate state-of-the-art foot ulcer recognition models and provide evidence that they provide insufficient performance. We release our image dataset to support the development of larger, more diverse datasets, and ultimately more equitable models for diabetic foot care. </p>  
-  </div>
 </div>
 
 
