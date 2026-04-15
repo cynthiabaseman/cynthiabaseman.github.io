@@ -37,7 +37,7 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp;(Upcoming) “Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. To be presented at CHI 2026. (2026, April).  
 
-&nbsp;&nbsp;&nbsp;(Upcoming) “Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care.” Prsentd at CHI 2026. (2026, April).  
+&nbsp;&nbsp;&nbsp; “Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care.” Presented at CHI 2026. (2026, April).  
 
 &nbsp;&nbsp;&nbsp;"Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes." Presented at IEEE EMBS International Conference on Biomedical and Health Informatics 2025. (2025, October). 
 
