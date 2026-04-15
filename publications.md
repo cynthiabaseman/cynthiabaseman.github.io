@@ -11,9 +11,9 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp; (Just Accepted) Swinger, N.* and Ryu, M.*, **Baseman, C. M.**, et al. (2026). Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy. In Proceedings of the ACM on Human-Computer Interaction. (*equal contribution)
 
-&nbsp;&nbsp;&nbsp; (In Press) **Baseman, C. M.**, et al. (2026). Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. <a href= "https://arxiv.org/abs/2603.03416 ">https://arxiv.org/abs/2603.03416</a> 
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2026). Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. <a href= "https://arxiv.org/abs/2603.03416 ">https://arxiv.org/abs/2603.03416</a> 
 
-&nbsp;&nbsp;&nbsp; (In Press) **Baseman, C. M.*** & Ryu, M.* et al. (2026).  Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. <a href= "https://arxiv.org/abs/2603.03467">https://arxiv.org/abs/2603.03467 </a>  (*equal contribution)
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.*** & Ryu, M.* et al. (2026).  Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. <a href= "https://arxiv.org/abs/2603.03467">https://arxiv.org/abs/2603.03467 </a>  (*equal contribution)
 
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. <a href= "https://doi.org/10.1145/3770702 ">https://doi.org/10.1145/3770702 </a> 
 
@@ -37,7 +37,7 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp;(Upcoming) “Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. To be presented at CHI 2026. (2026, April).  
 
-&nbsp;&nbsp;&nbsp;(Upcoming) “Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care.” To be presented at CHI 2026. (2026, April).  
+&nbsp;&nbsp;&nbsp;(Upcoming) “Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care.” Prsentd at CHI 2026. (2026, April).  
 
 &nbsp;&nbsp;&nbsp;"Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes." Presented at IEEE EMBS International Conference on Biomedical and Health Informatics 2025. (2025, October). 
 
