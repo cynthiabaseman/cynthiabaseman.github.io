@@ -9,6 +9,15 @@ permalink: /projects/
 <h1 style="text-align: center; color:black;"> Selected Works </h1>
 
 
+<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
+  <div style="flex: 1; max-width: 333;">
+  <img src="{{ '/images/CHI2026_medicalmistrust.png' | relative_url }} " alt="" style="display: block;margin:auto;">
+  </div>
+  <div style="flex: 2; max-width: 667;">
+  <p> <b>Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing</b> <br> <a href= "https://dl.acm.org/doi/10.1145/3772318.3791524"><em>CHI 2026</em> </a> <br><br> Despite increasing interest in culturally-sensitive health technologies, medical mistrust remains largely unexplored within human-centered computing. This is a rational, protective response based on historical context and systemic inequities. We conducted interviews with Black older adults to center their lived experiences and explore community perspectives on health care and race-based medical mistrust. We provide a reflective exercise for researchers to consider their positionality in relation to community engagements, and reframe our findings through Black Feminist Thought to propose design principles for health self-management technologies for communities with historically grounded medical mistrust.  </p>  
+  </div>
+</div>
+
 
 <div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
   <div style="flex: 1; max-width: 333;">
@@ -26,19 +35,10 @@ permalink: /projects/
   <img src="{{ '/images/IMWUT2025_clinicalstandards_new.png' | relative_url }} " alt="" style="display: block;margin:auto;">
     </div>
     <div style="flex: 2; max-width: 667;">
-  <p> <b>Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community</b><br> <a href="https://dl.acm.org/doi/10.1145/3770702"><em>IMWUT Dec 2025</em></a> <br><br> Critiques of speculative design raise questions of how to amplify historically marginalized voices. Taking a research through design approach, we conducted participatory speculative design workshops with Black older adults living in publicly subsidized housing, focusing on diabetes self-monitoring technology. We provide findings related to health priorities of community members and broader considerations regarding current and speculative (AI-based) technologies. We reflect on the tensions between clinical standards of care and participant agency in participatory design, as well as how participants' views of health technologies contrast with ubicomp's as a field.  </p>  
+  <p> <b>Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community</b><br> <a href="https://dl.acm.org/doi/10.1145/3770702"><em>IMWUT 2025</em></a> <br><br> Critiques of speculative design raise questions of how to amplify historically marginalized voices. Taking a research through design approach, we conducted participatory speculative design workshops with Black older adults living in publicly subsidized housing, focusing on diabetes self-monitoring technology. We provide findings related to health priorities of community members and broader considerations regarding current and speculative (AI-based) technologies. We reflect on the tensions between clinical standards of care and participant agency in participatory design, as well as how participants' views of health technologies contrast with ubicomp's as a field.  </p>  
 </div>
 </div> 
 
-
-<div class="projects-flex-container" style="display: flex; flex-wrap: wrap; align-items: center;" >
-  <div style="flex: 1; max-width: 333;">
-  <img src="{{ '/images/CHI2026_medicalmistrust.png' | relative_url }} " alt="" style="display: block;margin:auto;">
-  </div>
-  <div style="flex: 2; max-width: 667;">
-  <p> <b>Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing</b> <br> <a href= "https://arxiv.org/abs/2603.03416"><em>To Appear in CHI 2026</em> </a> <br><br> Despite increasing interest in culturally-sensitive health technologies, medical mistrust remains largely unexplored within human-centered computing. This is a rational, protective response based on historical context and systemic inequities. We conducted interviews with Black older adults to center their lived experiences and explore community perspectives on health care and race-based medical mistrust. We provide a reflective exercise for researchers to consider their positionality in relation to community engagements, and reframe our findings through Black Feminist Thought to propose design principles for health self-management technologies for communities with historically grounded medical mistrust.  </p>  
-  </div>
-</div>
 
 
 
@@ -66,7 +66,7 @@ permalink: /projects/
   <img src="{{ '/images/CHI2026_veterans.png' | relative_url }}" alt="" style="display: block;margin:auto;">
     </div>
     <div style="flex: 2; max-width: 667;">
-    <p> <b>Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care</b> <br> <a href= "https://arxiv.org/abs/2603.03467"><em> To Appear in CHI 2026</em> </a> <br><br> Technology offers opportunities to support a psychotherapist's negotiation between patient self-reports and clinical intuition. We designed a prototype of a clinical decision support system (CDSS) for treating veterans with PTSD in an intensive outpatient program. We then conducted a two-phase interview study to collect perspectives from practicing clinicians and former patients. Our analysis distills opportunities for a CDSS and larger challenges related to context and deployment, which we then reframe through three human-centered perspectives: distributed cognition, situated learning, and infrastructural inversion. </p>
+    <p> <b>Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care</b> <br> <a href= "https://dl.acm.org/doi/10.1145/3772318.3791575"><em> CHI 2026</em> </a> <br><br> Technology offers opportunities to support a psychotherapist's negotiation between patient self-reports and clinical intuition. We designed a prototype of a clinical decision support system (CDSS) for treating veterans with PTSD in an intensive outpatient program. We then conducted a two-phase interview study to collect perspectives from practicing clinicians and former patients. Our analysis distills opportunities for a CDSS and larger challenges related to context and deployment, which we then reframe through three human-centered perspectives: distributed cognition, situated learning, and infrastructural inversion. </p>
     </div>
 </div>
 
