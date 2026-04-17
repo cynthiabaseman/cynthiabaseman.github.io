@@ -35,7 +35,7 @@ permalink: /publications/
 
 <h2 style="color:black;"> <strong>Presentations & Invited Talks</strong> </h2>
 
-&nbsp;&nbsp;&nbsp;(Upcoming) “Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. To be presented at CHI 2026. (2026, April).  
+&nbsp;&nbsp;&nbsp; “Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. Presented at CHI 2026. (2026, April).  
 
 &nbsp;&nbsp;&nbsp; “Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care.” Presented at CHI 2026. (2026, April).  
 
