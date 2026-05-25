@@ -8,7 +8,7 @@ permalink: /teaching_service/
 
 Instructor, Georgia Institute of Technology
 <ul>
-  <li> (Upcoming) CS 3750 User Interface Design | Summer 2026</li>
+  <li> CS/PSYC 3750 User Interface Design | Summer 2026</li>
 </ul>
 
 Graduate Teaching Assistant, Georgia Institute of Technology
