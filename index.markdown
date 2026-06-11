@@ -34,10 +34,11 @@ title: Cynthia M. Baseman
   Most recently, I have been exploring medical mistrust and institutional distrust within communities of older Black Americans with low income, to inform the design of diabetes mobile health technologies which validate this historically-grounded, protective response.
  -->
 
-
+<div style="text-align: center;">
 <b>Research Interests:</b> HCI, Health AI, Health Equity, Community-engaged Design, Mobile & Ubiquitous Computing
 
 <b>Contact Me:</b> baseman[at]gatech[dot]edu
+</div>
 
 
 
