@@ -15,13 +15,14 @@ title: Cynthia M. Baseman
 
 
 <div class="flex-container" style="display: flex; flex-wrap: wrap; align-items: center">
-  <div style="flex: 1; max-width: 333">
+  <div style="flex: 1; max-width: 300">
   <img src="images/baseman.JPG" alt="Headshot Image">
   </div>
-  <div style="flex: 2; max-width:667">
+  <div style="flex: 2; max-width:700">
   <p>I am a PhD candidate in the <a href= "https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing">Human-Centered Computing (HCC) </a> program at Georgia Tech. I am a member of the <a href="https://sites.google.com/view/riarriaga/lab?authuser=0"> Georgia Tech Ubicomp Health & Wellness Lab</a>, advised by Professor Rosa Arriaga. Previously, I received my B.S. in electrical engineering (Georgia Tech), worked as an avionics engineer, and received my M.S. in computer science specializing in human-computer interaction (Georgia Tech). <br /><br />
-  My research focuses on <strong> equitable health technologies</strong> that incorporate AI for chronic health management, especially for historically marginalized communities. I conduct <strong>qualitative</strong> research, utilizing <strong>community-engaged approaches</strong>, and work with multidisciplinary teams to bridge design, human-computer interaction, and medicine. My work has been funded by the American Diabetes Association, the NIH, and the NSF. <br /><br />
-  I am on the academic job market, seeking a tenure-track faculty position or post-doc starting Fall 2027! 
+   My research focuses on <strong> equitable health technologies</strong> that incorporate AI for chronic health management, especially for historically marginalized communities. I conduct <strong>qualitative</strong> research, utilizing <strong>community-engaged approaches</strong>, and work with multidisciplinary teams to bridge design, human-computer interaction, and medicine. <br /><br />
+    My work has been published at top-tier computing venues including CHI, CSCW, and IMWUT, and is funded by the American Diabetes Association, the NIH, and the NSF. <br /><br />
+    I am on the academic job market, seeking a tenure-track faculty position or post-doc starting Fall 2027! 
   </p>  
   </div>
 </div>
