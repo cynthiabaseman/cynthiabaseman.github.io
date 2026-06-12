@@ -22,7 +22,7 @@ Graduate Teaching Assistant, Georgia Institute of Technology
 
 Officer, <a href= "https://sites.gatech.edu/gradpride/">Graduate Pride </a> at Georgia Tech (Student Organization), Jan 2024 - Present
 
-Co-researcher & Panelist, <a href="https://grad.gatech.edu/news/prismatic-belonging-view-reframing-graduate-student-experience-through-photovoice">Graduate Photovoice Cohort </a> with Georgia Tech Arts, Belonging and Community, Sept 2025 - May 2026
+Co-researcher, <a href="https://grad.gatech.edu/news/prismatic-belonging-view-reframing-graduate-student-experience-through-photovoice">Graduate Photovoice Cohort </a> with Georgia Tech Arts, Belonging and Community, Sept 2025 - May 2026
 
 Leadership Team,  <a href= "https://queerscience.lgbtqia.gatech.edu/">Queer Science </a> at Georgia Tech (Outreach Program), Oct 2023 - May 2025
 
