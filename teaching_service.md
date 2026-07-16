@@ -28,9 +28,10 @@ Leadership Team,  <a href= "https://queerscience.lgbtqia.gatech.edu/">Queer Scie
 
 Graduate Student Mentorship, Georgia Institute of Technology
 <ul>
-    <li> Julie Lee, PhD Human-centered Computing (Fall 2025 - Present)
-    <li> Sam Ghahremani, PhD Human-centered Computing (Fall 2025 - Present)
-    <li> Seka Dembure, MS Human--computer Interaction (Fall 2023 - Spring 2024)
+    <li> Julie Lee, PhD Human-centered Computing (Fall 2025 - Present)</li>
+    <li> Sam Ghahremani, PhD Human-centered Computing (Fall 2025 - Present)</li>
+    <li> Seka Dembure, MS Human--computer Interaction (Fall 2023 - Spring 2024)</li>
+</ul>
          
 Undergraduate Computer Science Thesis Mentorship, Georgia Institute of Technology
 <ul>
@@ -39,4 +40,5 @@ Undergraduate Computer Science Thesis Mentorship, Georgia Institute of Technolog
   <li>Reeda Huda: The Role of Medical Mistrust in Shaping Perceptions of Healthcare Technologies Among Older Adults from Marginalized Communities  (Fall 2024 - Spring 2025)</li>
   <li>Muni Bondu: Accessible Technology Design for Diabetes Management (Fall 2023 - Fall 2024)</li>
   <li>Elizabeth Salisbury: Useful and Usable Activity-Tracking Interface Design for Older Adults (Fall 2023 - Fall 2024)</li>
+</ul>
 
