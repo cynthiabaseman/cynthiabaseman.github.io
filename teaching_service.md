@@ -26,6 +26,12 @@ Co-researcher, <a href="https://grad.gatech.edu/news/prismatic-belonging-view-re
 
 Leadership Team,  <a href= "https://queerscience.lgbtqia.gatech.edu/">Queer Science </a> at Georgia Tech (Outreach Program), Oct 2023 - May 2025
 
+Graduate Student Mentorship, Georgia Institute of Technology
+<ul>
+    <li> Julie Lee, PhD Human-centered Computing (Fall 2025 - Present)
+    <li> Sam Ghahremani, PhD Human-centered Computing (Fall 2025 - Present)
+    <li> Seka Dembure, MS Human--computer Interaction (Fall 2023 - Spring 2024)
+         
 Undergraduate Computer Science Thesis Mentorship, Georgia Institute of Technology
 <ul>
   <li> Isabelle Webb: Exploring Diabetes Health Technologies & AI in Community Spaces (Fall 2025 - Spring 2026)</li>
