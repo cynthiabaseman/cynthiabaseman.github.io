@@ -9,7 +9,7 @@ permalink: /publications/
 
 <h2 style="color:black;"> <strong>Conference Presentations with Proceedings (refereed)</strong> </h2>
 
-&nbsp;&nbsp;&nbsp; (Just Accepted) Swinger, N.* and Ryu, M.* , **Baseman, C. M.**, et al. (2026). Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy. In Proceedings of the ACM on Human-Computer Interaction. (*equal contribution)
+&nbsp;&nbsp;&nbsp; (In Press) Swinger, N.* and Ryu, M.* , **Baseman, C. M.**, et al. (2026). Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy. In Proceedings of the ACM on Human-Computer Interaction. (*equal contribution)
 
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2026). Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3772318.3791524">https://doi.org/10.1145/3772318.3791524</a> 
 
@@ -53,6 +53,8 @@ permalink: /publications/
 
 <h2 style="color:black;"> <strong>Posters, Extended Abstracts, & Non-Archival Works</strong></h2>
 
+ &nbsp;&nbsp;&nbsp; Swinger, N., **Baseman, C. M.**, et al. (2026). Dull, Dirty, and Dangerous Facets of Human-AI Collaboration for Psychotherapy. Frontiers in Human Dynamics. 
+    
 &nbsp;&nbsp;&nbsp; Dahiya, V., **Baseman, C. M**, et al. (2026, January). Photovoice for Graduate Student Belonging. Georgia Tech Career, Research, and Innovation Development Conference (CRIDC) 2026.
 
 &nbsp;&nbsp;&nbsp;**Baseman, C.**, et al. (2025, June). 259-OR: Evaluating Diabetic Foot Ulcer Recognition Algorithms for Patients of Color. Diabetes, 74(Supplement 1), 259-OR. <a href= "https://doi.org/10.2337/db25-259-OR">https://doi.org/10.2337/db25-259-OR</a> 
