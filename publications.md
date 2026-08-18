@@ -21,7 +21,7 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). Poker with Play Money: Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://doi.org/10.1145/3757450">https://doi.org/10.1145/3757450</a> 
 
-&nbsp;&nbsp;&nbsp; Xu, K., **Baseman, C. M.**, et al. (2025). Understanding Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://doi.org/10.1145/3757519">https://doi.org/10.1145/3757519</a> 
+&nbsp;&nbsp;&nbsp; Xu, K., **Baseman, C. M.**, et al. (2025). Understanding the Temporality of Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. <a href= "https://doi.org/10.1145/3757519">https://doi.org/10.1145/3757519</a> 
 
 &nbsp;&nbsp;&nbsp; Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
 
