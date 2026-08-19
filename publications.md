@@ -9,23 +9,23 @@ permalink: /publications/
 
 <h2 style="color:black;"> <strong>Conference Presentations with Proceedings (refereed)</strong> </h2>
 
-&nbsp;&nbsp;&nbsp; (In Press) Swinger, N.* and Ryu, M.* , **Baseman, C. M.**, et al. (2026). Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy. In Proceedings of the ACM on Human-Computer Interaction. (*equal contribution)
+&nbsp;&nbsp;&nbsp; (In Press) Swinger, N.* and Ryu, M.* , **Baseman, C. M.**, et al. (2026). Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy. In Proc. ACM Hum.-Comput. Interact. (*equal contribution)
 
-&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2026). Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3772318.3791524">https://doi.org/10.1145/3772318.3791524</a> 
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2026). Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. In Proceedings of the 2026 **CHI** Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3772318.3791524">https://doi.org/10.1145/3772318.3791524</a> 
 
-&nbsp;&nbsp;&nbsp; **Baseman, C. M.*** & Ryu, M.* et al. (2026).  Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3772318.3791575">https://doi.org/10.1145/3772318.3791575 </a>  (*equal contribution)
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.*** & Ryu, M.* et al. (2026).  Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care. In Proceedings of the 2026 **CHI** Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3772318.3791575">https://doi.org/10.1145/3772318.3791575 </a>  (*equal contribution)
 
-&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. <a href= "https://doi.org/10.1145/3770702 ">https://doi.org/10.1145/3770702 </a> 
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. In Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (**IMWUT**). <a href= "https://doi.org/10.1145/3770702 ">https://doi.org/10.1145/3770702 </a> 
 
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.*** and Shi, Y.* et al. Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes. In 2025 IEEE EMBS International Conference on Biomedical and Health Informatics. IEEE. <a href= "https://doi.org/10.1109/BHI67747.2025.11269467">https://doi.org/10.1109/BHI67747.2025.11269467 </a> (*equal contribution)
 
-&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). "Poker with Play Money": Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://doi.org/10.1145/3757450">https://doi.org/10.1145/3757450</a> 
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). "Poker with Play Money": Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proc. ACM Hum.-Comput. Interact. 9, 7, Article **CSCW**269. <a href= "https://doi.org/10.1145/3757450">https://doi.org/10.1145/3757450</a> 
 
-&nbsp;&nbsp;&nbsp; Xu, K., **Baseman, C. M.**, et al. (2025). Understanding the Temporality of Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://doi.org/10.1145/3757519">https://doi.org/10.1145/3757519</a> 
+&nbsp;&nbsp;&nbsp; Xu, K., **Baseman, C. M.**, et al. (2025). Understanding the Temporality of Informal Caregivers’ Sense-Making on Conflicts and Life-Changing Events through Online Health Communities. In Proc. ACM Hum.-Comput. Interact. 9, 7, Article **CSCW**338. <a href= "https://doi.org/10.1145/3757519">https://doi.org/10.1145/3757519</a> 
 
-&nbsp;&nbsp;&nbsp; Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proceedings of the ACM on Human-Computer Interaction. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
+&nbsp;&nbsp;&nbsp; Swinger, N., **Baseman, C. M.**, et al. (2025). There’s No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work. In Proc. ACM Hum.-Comput. Interact. 9, 2, Article **CSCW**019. <a href= "https://doi.org/10.1145/3710917">https://doi.org/10.1145/3710917</a> 
 
-&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3706598.3713617">https://doi.org/10.1145/3706598.3713617</a> 
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). “We Have to Be Advocates for Ourselves”: A Social-Ecological Approach to Mobile Health Design with Black Older Adults Living with Diabetes. In Proceedings of the 2025 **CHI** Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3706598.3713617">https://doi.org/10.1145/3706598.3713617</a> 
 
 <h2 style="color:black;"> <strong>Journal Papers (refereed)</strong> </h2>
 
