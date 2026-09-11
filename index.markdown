@@ -16,7 +16,7 @@ title: Cynthia M. Baseman
 
 <div class="flex-container" style="display: flex; flex-wrap: wrap; align-items: center">
   <div style="flex: 1; max-width: 250px">
-  <img src="images/baseman.JPG" alt="Headshot Image">
+  <img src="images/baseman.jpg" alt="Headshot Image">
   </div>
   <div style="flex: 2; max-width:750px">
   <p>I am a PhD candidate in the <a href= "https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing">Human-Centered Computing (HCC) </a> program at Georgia Tech. I am a member of the <a href="https://sites.google.com/view/riarriaga/lab?authuser=0"> Georgia Tech Ubicomp Health & Wellness Lab</a>, advised by Professor Rosa Arriaga. Previously, I received my B.S. in electrical engineering (Georgia Tech), worked as an avionics engineer, and received my M.S. in computer science specializing in human-computer interaction (Georgia Tech). <br /><br />
