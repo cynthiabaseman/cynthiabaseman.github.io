@@ -13,6 +13,7 @@ Instructor, Georgia Institute of Technology
 
 Graduate Teaching Assistant, Georgia Institute of Technology
 <ul>
+  <li>CS 6435 Digital Health Equity |  Instructor: Prof. Andrea Parker | Fall 2026</li>
   <li>Head TA: CS 7470 Mobile & Ubiquitous Computing | Instructor: Dr. Clint Zeagler | Summer 2023</li>
   <li>Head TA: CS 7470 Mobile & Ubiquitous Computing | Instructor: Dr. Thomas Ploetz | Spring 2023</li>
   <li>CS 3001 Computing & Society | Instructor: Dr. Clint Zeagler | Fall 2022</li>
