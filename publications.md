@@ -9,7 +9,7 @@ permalink: /publications/
 
 <h2 style="color:black;"> <strong>Conference Presentations with Proceedings (refereed)</strong> </h2>
 
-&nbsp;&nbsp;&nbsp; Swinger, N.* and Ryu, M.* , **Baseman, C. M.**, et al. (2026). Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy. In Proc. ACM Hum.-Comput. Interact. (**CSCW**). <a href= "https://dl.acm.org/doi/epdf/10.1145/3816986">https://dl.acm.org/doi/epdf/10.1145/3816986</a> (*equal contribution) (**CSCW Best Paper Award**)
+&nbsp;&nbsp;&nbsp; Swinger, N.* and Ryu, M.* , **Baseman, C. M.**, et al. (2026). Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy. In Proc. ACM Hum.-Comput. Interact. (**CSCW**). <a href= "https://dl.acm.org/doi/10.1145/3816986">https://dl.acm.org/doi/10.1145/3816986</a> (*equal contribution) (**CSCW Best Paper Award**)
 
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2026). Designing with Medical Mistrust: Perspectives from Black Older Adults in Publicly Subsidized Housing. In Proceedings of the 2026 **CHI** Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3772318.3791524">https://doi.org/10.1145/3772318.3791524</a> 
 
