@@ -20,7 +20,7 @@ title: Cynthia M. Baseman
   </div>
   <div style="flex: 2; max-width:750px">
   <p>I am a PhD candidate in the <a href= "https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing">Human-Centered Computing (HCC) </a> program at Georgia Tech. I am a member of the <a href="https://sites.google.com/view/riarriaga/lab?authuser=0"> Georgia Tech Ubicomp Health & Wellness Lab</a>, advised by Professor Rosa Arriaga. Previously, I received my B.S. in electrical engineering (Georgia Tech), worked as an avionics engineer, and received my M.S. in computer science specializing in human-computer interaction (Georgia Tech). <br /><br />
-   My research explores <strong> equitable and responsible health AI</strong> for chronic health self-management, designed with communities facing health disparities. I conduct <strong>qualitative</strong> research, utilizing <strong>community-engaged design approaches</strong>, and work with multidisciplinary teams to bridge design, human-computer interaction, and medicine. <br /><br />
+   My research explores <strong> equitable and responsible health AI</strong> for chronic health self-management, designed with communities facing health disparities. I conduct <strong>qualitative</strong> research, utilizing <strong>community-engaged approaches</strong>, and work with multidisciplinary teams to bridge design, human-computer interaction, and medicine. <br /><br />
     My work has been published at top computing venues including CHI, CSCW, and IMWUT, and has been supported by the American Diabetes Association, the NIH, and the NSF. <br /><br />
     I am on the academic job market, seeking a tenure-track faculty position or post-doc starting Fall 2027! 
   </p>  
