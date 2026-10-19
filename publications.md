@@ -15,8 +15,6 @@ permalink: /publications/
 
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.*** & Ryu, M.* et al. (2026).  Human-centered Perspectives on a Clinical Decision Support System for Intensive Outpatient Veteran PTSD Care. In Proceedings of the 2026 **CHI** Conference on Human Factors in Computing Systems. <a href= "https://doi.org/10.1145/3772318.3791575">https://doi.org/10.1145/3772318.3791575 </a>  (*equal contribution)
 
-&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. In Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (**IMWUT**). <a href= "https://doi.org/10.1145/3770702 ">https://doi.org/10.1145/3770702 </a> 
-
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.*** and Shi, Y.* et al. Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes. In 2025 IEEE EMBS International Conference on Biomedical and Health Informatics. IEEE. <a href= "https://doi.org/10.1109/BHI67747.2025.11269467">https://doi.org/10.1109/BHI67747.2025.11269467 </a> (*equal contribution)
 
 &nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). "Poker with Play Money": Exploring The Perceived Humanness of AI Virtual Patients for Psychotherapist Training Role-Play. In Proc. ACM Hum.-Comput. Interact. 9, 7, Article **CSCW**269. <a href= "https://doi.org/10.1145/3757450">https://doi.org/10.1145/3757450</a> 
@@ -30,6 +28,8 @@ permalink: /publications/
 <h2 style="color:black;"> <strong>Journal Papers (refereed)</strong> </h2>
 
 &nbsp;&nbsp;&nbsp; Lee, H., Menezes, V., Zeng, S., Kim, C., **Baseman C. M.**, et al. 2026. Data-Driven Feedback Identifies Focused Ultrasound Exposure Regimens for Improved Nanotheranostic Targeting of the Brain. Advanced Science. <a href= "https://doi.org/10.1002/advs.202517834">https://doi.org/10.1002/advs.202517834</a> 
+
+&nbsp;&nbsp;&nbsp; **Baseman, C. M.**, et al. (2025). Clinical Standards & Proximate Futures: Participatory Design Futuring of Diabetes Technologies with an Under-resourced Community. In Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (**IMWUT**). <a href= "https://doi.org/10.1145/3770702 ">https://doi.org/10.1145/3770702 </a> 
 
 &nbsp;&nbsp;&nbsp;**Baseman C.**, et al. 2023. Intelligent Care Management for Diabetic Foot Ulcers: A Scoping Review of Computer Vision and Machine Learning Techniques and Applications. Journal of Diabetes Science and Technology. <a href= "https://doi.org/10.1177/19322968231213378">https://doi.org/10.1177/19322968231213378</a> 
 
