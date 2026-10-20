@@ -19,7 +19,7 @@ permalink: /publications/
 
 <h2 style="color:black;"> <strong>Journal Papers (refereed)</strong> </h2>
 
-&nbsp;&nbsp;&nbsp; Swinger, N.* and Ryu, M.* , **Baseman, C. M.**, et al. (2026). Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy. In Proc. ACM Hum.-Comput. Interact. (**CSCW**). <a href= "https://dl.acm.org/doi/10.1145/3816986">https://dl.acm.org/doi/10.1145/3816986</a> (*equal contribution) (**CSCW Best Paper Award**)
+&nbsp;&nbsp;&nbsp; Swinger, N.* and Ryu, M.* , **Baseman, C. M.**, et al. (2026). Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy. In Proc. ACM Hum.-Comput. Interact. 10, 6, Article **CSCW**138. <a href= "https://dl.acm.org/doi/10.1145/3816986">https://dl.acm.org/doi/10.1145/3816986</a> (*equal contribution) (**CSCW Best Paper Award**)
 
 &nbsp;&nbsp;&nbsp; Lee, H., Menezes, V., Zeng, S., Kim, C., **Baseman C. M.**, et al. 2026. Data-Driven Feedback Identifies Focused Ultrasound Exposure Regimens for Improved Nanotheranostic Targeting of the Brain. Advanced Science. <a href= "https://doi.org/10.1002/advs.202517834">https://doi.org/10.1002/advs.202517834</a> 
 
